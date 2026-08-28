@@ -18,7 +18,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 **Patrol Leader**, Troop 329 — February 2019 – August 2019
 - Led a patrol of 30 Scouts through weekly meetings, rank progression, merit badges, and event planning
 - Mentored patrol members in leadership and character development
-- Facilitated and oversaw troop communication and planning with senior leadership
+- Facilitated and oversaw cross-team communication and planning with senior troop leadership
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
@@ -33,7 +33,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing a database-oriented tool allowing users to selectively find statistics from individual games, players, and teams
+- Owning a real-world, self-directed database-oriented tool allowing users to selectively find statistics from individual games, players, and teams
 - Built with Python and SQL
 
 **Personal Portfolio Website** — Summer 2026
@@ -52,3 +52,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Recent tailoring notes
 - 2026-08-25: Initial draft created for the leadership track. Led with Junior Counselor and Patrol Leader roles, folded in the AI Assisted Researcher's process/report-structuring work, prioritized Complex Leadership Challenges coursework.
+- 2026-08-28: Adjusted for Pentair Engineering Leadership Development Internship Program posting (Tier B, fit 4) — reworded the Gameday Stats bullet around "real-world, self-directed" project ownership to mirror Pentair ELDP's "real-world, strategic business projects" framing, and reworded the Patrol Leader bullet to "cross-team communication" to echo the program's cross-functional collaboration with Product Engineering and Business Unit leadership.
