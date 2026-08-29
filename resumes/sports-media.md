@@ -20,7 +20,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing a database-oriented stats-and-information tool allowing users to selectively find statistics from individual games, players, and teams
+- Designing a database-oriented sports technology platform allowing users to selectively find statistics from individual games, players, and teams
 - Built with Python and SQL to remove the need for manual sports data gathering — direct crossover with sports broadcast analytics and production workflows
 
 **Photo Sorter** — Winter 2025-26
@@ -54,3 +54,4 @@ Sports analytics and data visualization, freelance photography and videography (
 ## Recent tailoring notes
 - 2026-08-25: Initial draft created for the sports-media track. Led with Creative Media Intern role and Gameday Stats, framed Photo Sorter as camera-file tooling, highlighted sports analytics interest.
 - 2026-08-25: Adjusted for this week's matches (SportsMedia Technology Corp / SMT, ESPN Stats & Information). Reworded Gameday Stats as a "stats-and-information tool" to mirror ESPN's team name, and framed the Creative Media Intern bullet around live production/broadcast operations to mirror SMT's Events Technical Services & Engineering focus.
+- 2026-08-29: Adjusted for Upper Hand Software Engineer Internship posting (Tier C, fit 4) — reworded Gameday Stats to "sports technology platform" to mirror Upper Hand's "full-suite sports and fitness management software" positioning; the existing React.js/JavaScript listing in Technical Skills already matches Upper Hand's stated stack.

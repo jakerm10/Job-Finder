@@ -163,5 +163,49 @@
     "fit_score": 4,
     "deadline": "TBD",
     "first_seen": "2026-08-28"
+  },
+  {
+    "company": "CTGT",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "company": "Upper Hand",
+    "role": "Internship - Software Engineer",
+    "url": "https://jobs.gusto.com/postings/upper-hand-internship-software-engineer-c430708a-842d-4db4-bbf4-28bf88ac1306",
+    "location": "Indianapolis, IN",
+    "track": "sports-media",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "company": "Optiver",
+    "role": "Software Engineer Intern (Summer 2027 - Austin)",
+    "url": "https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/",
+    "location": "Austin, TX",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-08-29"
+  },
+  {
+    "company": "RTX",
+    "role": "Leadership Development Program - Engineering, Software (Starts June 2027)",
+    "url": "https://careers.rtx.com/global/en/job/01853289/Leadership-Development-Program-Engineering-Software-Starts-June-2027",
+    "location": "Arlington, VA",
+    "track": "leadership",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-08-29"
   }
 ]

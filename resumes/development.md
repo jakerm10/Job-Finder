@@ -29,7 +29,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
-- Built and shipped AI-assisted prompt workflows that automated consistency across employees, cutting review time from 5 hours to 1
+- Designed and owned AI-assisted prompt workflows end-to-end, enforcing consistent, reliable output across employees and cutting review time from 5 hours to 1
 - Leveraged AI to synthesize marketing techniques and data points into content plans
 - Structured and designed reports to efficiently guide new content strategies
 
@@ -57,3 +57,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-08-25: Initial draft created for the development track. Led with Personal Portfolio Website and Gameday Stats, folded in AI Assisted Researcher automation work, prioritized Full Stack/Algorithms/Systems coursework.
 - 2026-08-25: Adjusted for this week's matches (SpaceX, Roblox, Salesforce, Zipline, Hudson River Trading). Added Python to the Languages line (grounded — it's the language behind Gameday Stats) since HRT's posting calls for C++ or Python; reworded the Gameday Stats bullets toward "built from the ground up" / end-to-end ownership language to mirror SpaceX/Roblox mentorship-and-ownership framing; kept Salesforce visible in Tools since Jake already has hands-on exposure, matching the Salesforce SWE posting.
 - 2026-08-28: Adjusted for this week's matches (Advanced Space, Deepgram, The Trade Desk — Tier C/B). Reworded the Gameday Stats bullet to lead with end-to-end ownership ("schema design through query logic") to mirror Trade Desk's "own and ship an end-to-end project" framing and Advanced Space's mentee-owns-a-project model; reworded the AI Assisted Researcher bullet to "built and shipped AI-assisted prompt workflows" to mirror Deepgram's explicit ask for shipped, AI-assisted project work.
+- 2026-08-29: Adjusted for CTGT Software Engineering Intern posting (Tier C, fit 3) — reworded the AI Assisted Researcher bullet to "designed and owned...end-to-end, enforcing consistent, reliable output" to mirror CTGT's AI-reliability/governance focus and its "own a meaningful piece of work end to end" framing.
