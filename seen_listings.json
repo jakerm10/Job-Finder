@@ -3,12 +3,18 @@
     "company": "SpaceX",
     "role": "Software Engineering Internship/Co-op",
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002",
-    "location": "Multiple (US) — incl. Hawthorne, CA",
+    "location": "Multiple (US) \u2014 incl. Hawthorne, CA",
     "track": "development",
     "tier": "A",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "SpaceX's scale would expose me to production engineering practices far beyond anything in coursework.",
+      "Long-shot given the volume of applicants, but the upside (flight software, real hardware-software integration) is worth a shot."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Roblox",
@@ -19,7 +25,13 @@
     "tier": "A",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Roblox's platform-scale engineering problems (real-time systems, huge concurrent user base) would stretch my full-stack skills well past portfolio-project scale.",
+      "A recognizable name on my resume alongside my smaller-company applications."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Salesforce",
@@ -30,7 +42,13 @@
     "tier": "A",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Salesforce is already a tool I have hands-on experience with, so their engineering internship is a natural extension of skills I've already built.",
+      "Long-shot given applicant volume, but worth a shot given my existing Salesforce familiarity."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Zipline",
@@ -41,7 +59,13 @@
     "tier": "B",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Zipline's drone delivery software sits right at the intersection of real-world hardware and software I find interesting.",
+      "Mid-size enough (Tier B) that my application isn't lost in the same flood as the mega-brand postings."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Hudson River Trading",
@@ -52,18 +76,30 @@
     "tier": "A",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "HRT's C++/Python internship would push my systems-level and algorithms coursework into a genuinely high-performance environment.",
+      "Long-shot given quant-trading applicant volume, but a strong technical brand to have on file."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Boeing",
     "role": "Summer 2027 Internship Program - Data Analytics Intern",
     "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192",
-    "location": "Multiple (US) — incl. Everett, WA",
+    "location": "Multiple (US) \u2014 incl. Everett, WA",
     "track": "database",
     "tier": "A",
-    "fit_score": 3,
+    "fit_score": 4,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Data analytics work at Boeing's scale would give me real experience with large, messy datasets \u2014 a step up from my own Gameday Stats project.",
+      "Aligns with my Statistics minor and interest in turning raw data into usable insight."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "ByteDance",
@@ -72,9 +108,15 @@
     "location": "Multiple (US)",
     "track": "database",
     "tier": "A",
-    "fit_score": 3,
+    "fit_score": 4,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Distributed NoSQL systems work would push my Database Systems coursework into production-scale infrastructure I haven't touched yet.",
+      "Long-shot given applicant volume for a company this size, but a strong technical stretch goal."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Freddie Mac",
@@ -83,9 +125,15 @@
     "location": "McLean, VA",
     "track": "database",
     "tier": "B",
-    "fit_score": 3,
+    "fit_score": 4,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "why_interested": [
+      "Hands-on database development work in a regulated, high-stakes data environment would round out the SQL experience from Gameday Stats and my portfolio site.",
+      "A more predictable, mid-size applicant pool than the mega-brand postings."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "SportsMedia Technology Corp (SMT)",
@@ -94,9 +142,15 @@
     "location": "Durham, NC or Jacksonville, FL",
     "track": "sports-media",
     "tier": "C",
-    "fit_score": 4,
+    "fit_score": 5,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "ideal_fit": true,
+    "why_interested": [
+      "SportsMedia Technology Corp builds the graphics/timing systems actually used during live sports broadcasts \u2014 a direct extension of my Creative Media Intern work shooting live games.",
+      "Small, specialized company in the exact sports-tech niche I want to build a career in."
+    ]
   },
   {
     "company": "ESPN",
@@ -105,9 +159,15 @@
     "location": "Bristol, CT",
     "track": "sports-media",
     "tier": "A",
-    "fit_score": 4,
+    "fit_score": 5,
     "deadline": "TBD",
-    "first_seen": "2026-08-25"
+    "first_seen": "2026-08-25",
+    "expired": false,
+    "ideal_fit": true,
+    "why_interested": [
+      "ESPN's Stats & Information team is the sports-data-to-broadcast pipeline I've been building toward with Gameday Stats.",
+      "Long-shot given ESPN's brand recognition and applicant volume, but a dream-role fit for the sports-media track."
+    ]
   },
   {
     "company": "Advanced Space",
@@ -118,7 +178,13 @@
     "tier": "C",
     "fit_score": 4,
     "deadline": "Rolling",
-    "first_seen": "2026-08-28"
+    "first_seen": "2026-08-28",
+    "expired": false,
+    "why_interested": [
+      "Colorado-based small aerospace company \u2014 realistic odds and a short commute from Boulder.",
+      "Rolling deadline and small team size means real project ownership as an intern, similar to what I look for in Gameday Stats."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Deepgram",
@@ -129,7 +195,13 @@
     "tier": "B",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-28"
+    "first_seen": "2026-08-28",
+    "expired": false,
+    "why_interested": [
+      "Deepgram's ask for shipped, AI-assisted project work lines up directly with my AI Assisted Researcher experience designing and shipping prompt workflows.",
+      "Remote role, so it's a realistic option even without relocating."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "The Trade Desk",
@@ -140,7 +212,13 @@
     "tier": "B",
     "fit_score": 4,
     "deadline": "TBD",
-    "first_seen": "2026-08-28"
+    "first_seen": "2026-08-28",
+    "expired": false,
+    "why_interested": [
+      "Denver-based, so it's a realistic commute from Boulder without relocating for the summer.",
+      "Their \"own and ship an end-to-end project\" framing matches exactly how I already work on Gameday Stats."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Uline",
@@ -149,20 +227,32 @@
     "location": "Pleasant Prairie, WI / Glenview, IL",
     "track": "database",
     "tier": "B",
-    "fit_score": 3,
+    "fit_score": 4,
     "deadline": "TBD",
-    "first_seen": "2026-08-28"
+    "first_seen": "2026-08-28",
+    "expired": false,
+    "why_interested": [
+      "Direct DBA experience would give me production database administration skills beyond the schema/query design I've done on Gameday Stats.",
+      "Complimentary housing and a structured mentor program make it a realistic, well-supported internship."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Pentair",
     "role": "Engineering Leadership Development Internship Program - Summer 2027",
     "url": "https://careers.pentair.com/us/en/job/R23697/Engineering-Leadership-Development-Internship-Program-Summer-2027",
-    "location": "Multiple (US) — incl. Golden Valley, MN",
+    "location": "Multiple (US) \u2014 incl. Golden Valley, MN",
     "track": "leadership",
     "tier": "B",
-    "fit_score": 4,
+    "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-28"
+    "first_seen": "2026-08-28",
+    "expired": false,
+    "why_interested": [
+      "Explicitly structured as a leadership-development program pairing real business projects with mentorship \u2014 matches my Engineering Leadership Certificate directly.",
+      "Cross-functional exposure to Product Engineering and Business Unit leadership is exactly the breadth I want from a leadership-track internship."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "CTGT",
@@ -173,7 +263,13 @@
     "tier": "C",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-29"
+    "first_seen": "2026-08-29",
+    "expired": false,
+    "why_interested": [
+      "CTGT's AI-interpretability/governance focus builds directly on the reliability-and-consistency work I did as an AI Assisted Researcher.",
+      "Small YC startup \u2014 realistic odds compared to the mega-brand AI labs."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "Upper Hand",
@@ -182,9 +278,15 @@
     "location": "Indianapolis, IN",
     "track": "sports-media",
     "tier": "C",
-    "fit_score": 4,
+    "fit_score": 5,
     "deadline": "Rolling",
-    "first_seen": "2026-08-29"
+    "first_seen": "2026-08-29",
+    "expired": false,
+    "ideal_fit": true,
+    "why_interested": [
+      "Upper Hand builds sports/fitness management software \u2014 almost exactly the \"sports technology platform\" I'm already building with Gameday Stats.",
+      "Small company with a flexible, intern-friendly schedule and a stack (React/JS) I already know."
+    ]
   },
   {
     "company": "Optiver",
@@ -195,7 +297,13 @@
     "tier": "A",
     "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-29"
+    "first_seen": "2026-08-29",
+    "expired": false,
+    "why_interested": [
+      "Optiver's C++/Python-driven trading systems would be a serious technical stretch beyond my coursework.",
+      "Long-shot given quant-trading applicant volume, but a strong brand to have applied to."
+    ],
+    "ideal_fit": false
   },
   {
     "company": "RTX",
@@ -204,8 +312,140 @@
     "location": "Arlington, VA",
     "track": "leadership",
     "tier": "A",
-    "fit_score": 4,
+    "fit_score": 3,
     "deadline": "TBD",
-    "first_seen": "2026-08-29"
+    "first_seen": "2026-08-29",
+    "expired": false,
+    "why_interested": [
+      "RTX's Leadership Development Program pairs real engineering rotations with structured leadership training \u2014 matches the Engineering Leadership Certificate I'm pursuing.",
+      "Long-shot given RTX's size and applicant volume, but a strong structured program if it comes through."
+    ],
+    "ideal_fit": false
+  },
+  {
+    "company": "Netic",
+    "role": "Software Engineer Intern, Agent Platform / Full Stack",
+    "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "Full-stack work at a small, fast-moving startup means real, user-facing ownership early on \u2014 the same end-to-end ownership I like about my Gameday Stats project.",
+      "Getting hands-on with an AI agent platform's engineering side builds directly on the AI-assisted workflow design I did as a Researcher at Brian Hewlett LLC.",
+      "A small team gives more surface area to grow full-stack skills beyond what a single class or project can teach."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "Dedalus Labs",
+    "role": "Systems Engineer Intern (Summer 2027)",
+    "url": "https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "Dedalus Labs is YC-backed and small enough that an intern gets real systems-level ownership, not busywork.",
+      "Systems engineering work would stretch my Computer Systems coursework into a real production environment.",
+      "Early-stage means a real chance to see a project I start actually ship, similar to what I value about owning Gameday Stats end-to-end."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "Circleback",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://www.ycombinator.com/companies/circleback/jobs/QMpriul-software-engineering-intern-summer-2027",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "Small YC startup, meaning broad exposure across the stack rather than a narrow slice of one system.",
+      "Early-stage software engineering work lines up with the full-stack building I've already been doing on my portfolio site and Gameday Stats.",
+      "Startups at this size see far fewer applicants than the big-name internships, which makes this a realistic target for my time."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "Ellipsis Labs",
+    "role": "Software Engineer Intern (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "A small, technically dense engineering team is a good fit for someone who wants to write real production code as an intern, not just shadow.",
+      "Backend-heavy engineering work builds on the SQL/backend query-logic experience from Gameday Stats and my portfolio site.",
+      "Smaller headcount than the mega-cap firms I'm also applying to, so my application has better odds of getting real attention."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "JETSWEAT",
+    "role": "Software Engineer Intern",
+    "url": "https://wellfound.com/jobs/307020-software-engineer-intern",
+    "location": "New York, NY (Remote option)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "JETSWEAT's stack (React, Node, MySQL) lines up directly with what I already use on my portfolio site and Gameday Stats.",
+      "It's a small team building a fitness/wellness streaming product, which overlaps with my own interest in health and fitness (I run for CU Boulder's club track team).",
+      "Remote flexibility and a 12-week term make it a realistic internship to take on alongside classes."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "Regions Bank",
+    "role": "2027 ETP Intern - Technology, Operations, Digital, and Data",
+    "url": "https://careers.regions.com/us/en/Current-ETP-Intern-Program-Openings",
+    "location": "Hoover, AL",
+    "track": "leadership",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "It's explicitly structured as a leadership-development program, not just a technical rotation \u2014 a good match for the Engineering Leadership Certificate I'm pursuing.",
+      "The program pairs training/coaching with real project work, similar to what I valued about mentoring newer interns as a Creative Media Intern.",
+      "Exposure to how a large regional company runs its technology and data operations would round out my mostly startup/small-team experience so far."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "company": "Castleton Commodities International",
+    "role": "Data Engineering Internship (Summer 2027)",
+    "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Data-Engineering-Internship--Summer-2027-_R1346",
+    "location": "Houston, TX / New York, NY / Stamford, CT",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "2026-09-01",
+    "first_seen": "2026-09-01",
+    "why_interested": [
+      "Hands-on work building data pipelines is a direct extension of what I'm already doing with Gameday Stats' SQL-driven query logic.",
+      "Working with the Data Science and Data Engineering teams on forecasting/analytics data would push my Statistics minor into a real quantitative business context.",
+      "Note: the posted deadline (Sept 1) is essentially today by the time this shows up in the weekly report \u2014 treat as a long-shot/fast-apply unless a later cycle reopens."
+    ],
+    "expired": false,
+    "ideal_fit": false
   }
 ]

@@ -22,7 +22,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
-- Structured and designed reports to efficiently guide new content strategies
+- Structured and designed reports and a repeatable practical/technical process to efficiently guide new content strategies
 - Designed prompts to automate consistency across employees, cutting review time from 5 hours to 1
 - Leveraged AI to synthesize marketing techniques and data points into content plans
 
@@ -53,3 +53,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 ## Recent tailoring notes
 - 2026-08-25: Initial draft created for the leadership track. Led with Junior Counselor and Patrol Leader roles, folded in the AI Assisted Researcher's process/report-structuring work, prioritized Complex Leadership Challenges coursework.
 - 2026-08-28: Adjusted for Pentair Engineering Leadership Development Internship Program posting (Tier B, fit 4) — reworded the Gameday Stats bullet around "real-world, self-directed" project ownership to mirror Pentair ELDP's "real-world, strategic business projects" framing, and reworded the Patrol Leader bullet to "cross-team communication" to echo the program's cross-functional collaboration with Product Engineering and Business Unit leadership.
+- 2026-09-01: Adjusted for Regions Bank 2027 ETP Intern — Technology, Operations, Digital, and Data posting (Tier B, fit 3) — reworded the AI Assisted Researcher bullet to call out "a repeatable practical/technical process," mirroring Regions ETP's stated "practical and technical curriculum" and training/coaching structure.
