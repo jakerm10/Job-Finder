@@ -10,7 +10,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing a database-oriented sports statistics tool allowing users to selectively find and pull statistics from individual games, players, and teams via SQL-driven data pipelines
+- Designing a database-oriented sports statistics tool allowing users to selectively find and pull accurate statistics for individual games, players, and teams via SQL-driven data pipelines
 - Built with Python and SQL to remove the need for manual sports data gathering
 
 **Personal Portfolio Website** — Summer 2026
@@ -56,3 +56,4 @@ Sports analytics and data visualization, personal health and fitness (CU Club Tr
 - 2026-08-29: Adjusted for Upper Hand Software Engineer Internship posting (Tier C, fit 4) — reworded Gameday Stats to "sports technology platform" to mirror Upper Hand's "full-suite sports and fitness management software" positioning; the existing React.js/JavaScript listing in Technical Skills already matches Upper Hand's stated stack.
 - 2026-09-02: **Scope migration: sports-media → sports-tech.** Track renamed and rescoped to sports data/software only (creative-media/content roles now tracked elsewhere). Rebalanced: Gameday Stats now leads Projects and Employment leads with AI Assisted Researcher; Creative Media Intern trimmed from 3 photo/video-editing bullets down to a single "embedded in athletics operations" bullet per the new scope, with editing/mentoring bullets removed. Dropped Adobe Suite, Freelance Photography/Videography, and Social Media Management from skills (no longer relevant to this track); added R-Studio and Statistical Analysis to better match sports-data roles.
 - 2026-09-02: Adjusted for Green Bay Packers Football Analytics Engineering Intern posting (Tier B, fit 5) — reworded the Gameday Stats bullet to call out "SQL-driven data pipelines," mirroring the posting's "build data pipelines" framing for an NFL team's Football Operations analytics group.
+- 2026-09-02: Adjusted for Stats Perform U.S. Sports Data Intern posting (Tier B, fit 5) — added "accurate" to the Gameday Stats bullet to mirror Stats Perform's data-accuracy/client-delivery framing for its player-tracking-data operations role.

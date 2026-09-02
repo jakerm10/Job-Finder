@@ -33,7 +33,7 @@ const TRACKS = {
     projects: [
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack software and photography portfolio using React.js, EmailJS, Cloudflare, and Firebase. Owned the project solo end-to-end — native CSS, deployment pipelines, and full account creation/modification, contact-via-email, and image submission functionality. Stack: JavaScript, CSS, HTML, SQL.' },
       { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a database-backed tool end-to-end, from requirements through schema design and query logic, that lets users selectively pull statistics for individual games, players, and teams. Implementing and testing SQL-driven backend query logic in Python to eliminate manual data-gathering for end users. Stack: Python, SQL.' },
-      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that scans an input folder, parses MacOS "locked" metadata on camera image files, duplicates matching files, strips the metadata, and moves copies into a target folder.' },
+      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing pipeline for camera image files that scans an input folder, parses MacOS "locked" metadata, duplicates matching files, strips the metadata, and moves copies into a target folder.' },
     ],
     employment: [
       { title: 'AI Assisted Researcher', org: 'Brian Hewlett LLC', dates: 'Summer 2026', bullets: [
@@ -101,7 +101,7 @@ const TRACKS = {
       'Other Skills': 'Sports Analytics & Data Visualization, Statistical Analysis, Data Analysis, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool allowing users to selectively find and pull statistics from individual games, players, and teams via SQL-driven data pipelines. Built with Python and SQL to remove the need for manual sports data gathering.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool allowing users to selectively find and pull accurate statistics for individual games, players, and teams via SQL-driven data pipelines. Built with Python and SQL to remove the need for manual sports data gathering.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, with a SQL-backed account system. JavaScript, CSS, HTML, SQL.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Developed a file-processing script that scans an input folder, parses MacOS "locked" metadata, creates copies, strips metadata, and organizes output.' },
     ],
@@ -135,7 +135,7 @@ const TRACKS = {
       'Other Skills': 'Project Management, Leadership, Networking, AI Prompt Engineering, Analytical Problem Solving',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a real-world, self-directed database-oriented tool allowing users to selectively find statistics from individual games, players, and teams. Built with Python and SQL.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a real-world, self-directed database-oriented tool end-to-end — from requirements through schema design — allowing users to selectively find statistics from individual games, players, and teams. Built with Python and SQL.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack software and photography portfolio using React.js, EmailJS, Cloudflare, and Firebase.' },
     ],
     employment: [

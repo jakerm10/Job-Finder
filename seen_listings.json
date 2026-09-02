@@ -566,6 +566,78 @@
     "ideal_fit": true
   },
   {
+    "listing_id": "rivian-software-engineering-intern-camera-software",
+    "company": "Rivian",
+    "role": "Software Engineering Intern - Camera Software",
+    "url": "https://www.climatechangecareers.com/job/rivian/palo-alto-ca-united-states/software-engineering-intern-camera-software/",
+    "location": "Palo Alto, CA",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-09-02",
+    "why_interested": [
+      "Rivian's Camera, Imaging and Computer Vision team builds real end-to-end software pipelines for camera systems — a direct extension of the camera-image-file work in my Photo Sorter project.",
+      "A well-known automotive brand with a specialized, technically deep team rather than a generalist SWE rotation."
+    ],
+    "expired": false,
+    "ideal_fit": true
+  },
+  {
+    "listing_id": "stats-perform-us-sports-data-intern",
+    "company": "Stats Perform",
+    "role": "U.S. Sports Data Intern",
+    "url": "https://www.indeed.com/viewjob?jk=26e614ade0c93277",
+    "location": "United States (exact site TBD)",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-09-02",
+    "why_interested": [
+      "Stats Perform is described as the world's leading sports data company, and this role works directly with player-tracking data for basketball — a close match to the stats-pipeline work I'm already doing on Gameday Stats.",
+      "8-week paid program with training sessions and an end-of-summer presentation gives real structured exposure to how a sports-data company actually operates."
+    ],
+    "expired": false,
+    "ideal_fit": true
+  },
+  {
+    "listing_id": "corning-engineering-rotational-program",
+    "company": "Corning",
+    "role": "Engineering Rotational Program (Early Career)",
+    "url": "https://www.corning.com/worldwide/en/careers/campus-programs/engineering-rotational-programs.html",
+    "location": "Multiple (US) — incl. Corning, NY",
+    "track": "leadership",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-02",
+    "why_interested": [
+      "Explicitly structured as a rotational program pairing hands-on engineering work with mentorship and leadership development — a direct match for the Engineering Leadership Certificate I'm pursuing.",
+      "Rotating through field, applications, and systems engineering would broaden my experience past the single-company depth I've had so far."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "flomad-labs-rd-computer-vision-engineering-intern",
+    "company": "Flomad Labs R&D",
+    "role": "Computer Vision Engineering Intern",
+    "url": "https://flomad.international/blog/jobs/computer-vision-engineering-intern/",
+    "location": "Austin, TX / Remote",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-02",
+    "why_interested": [
+      "A small R&D lab working directly with applied computer vision and imaging problems — hands-on imaging work similar in spirit to the camera-file processing I built with Photo Sorter.",
+      "Small team and a rolling internship structure means real ownership rather than a narrow, siloed task."
+    ],
+    "expired": false,
+    "ideal_fit": false
+  },
+  {
     "listing_id": "draftkings-2027-internships-co-ops",
     "company": "DraftKings",
     "role": "2027 Internships & Co-Ops (Software/Data Engineering track)",
