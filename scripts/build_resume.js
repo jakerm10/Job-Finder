@@ -32,8 +32,8 @@ const TRACKS = {
     },
     projects: [
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack software and photography portfolio using React.js, EmailJS, Cloudflare, and Firebase. Owned the project solo end-to-end — native CSS, deployment pipelines, and full account creation/modification, contact-via-email, and image submission functionality. Stack: JavaScript, CSS, HTML, SQL.' },
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a database-backed tool end-to-end, from schema design through query logic, that lets users selectively pull statistics for individual games, players, and teams. Implementing SQL-driven backend query logic in Python to eliminate manual data-gathering for end users. Stack: Python, SQL.' },
-      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that scans an input folder, parses MacOS "locked" metadata, duplicates matching files, strips the metadata, and moves copies into a target folder.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a database-backed tool end-to-end, from requirements through schema design and query logic, that lets users selectively pull statistics for individual games, players, and teams. Implementing and testing SQL-driven backend query logic in Python to eliminate manual data-gathering for end users. Stack: Python, SQL.' },
+      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that scans an input folder, parses MacOS "locked" metadata on camera image files, duplicates matching files, strips the metadata, and moves copies into a target folder.' },
     ],
     employment: [
       { title: 'AI Assisted Researcher', org: 'Brian Hewlett LLC', dates: 'Summer 2026', bullets: [
@@ -67,7 +67,7 @@ const TRACKS = {
       'Other Skills': 'Data Analysis, Statistical Analysis, Analytical Problem Solving, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented tool allowing users to selectively query statistics from individual games, players, and teams. Removes the need for users to manually acquire data by leveraging SQL techniques to select and filter stats. Built with Python and SQL.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented tool allowing users to selectively query statistics from individual games, players, and teams. Removes the need for users to manually acquire data by leveraging SQL techniques to select and filter stats across a relational database. Built with Python and SQL.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, including SQL-backed account creation/modification and data persistence. Handled deployment pipelines and user event/data flows end-to-end.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that parses and rewrites MacOS metadata, applying structured data transformations across a batch file set.' },
     ],
@@ -92,28 +92,27 @@ const TRACKS = {
     ],
     honors: ["Dean's List, University of Colorado Boulder, May 2025", 'Salutatorian, Golden High School', 'Eagle Scout, Scouting of America, November 2021'],
   },
-  'sports-media': {
-    label: 'Sports Technology / Sports Media / Photography-Camera Software',
-    coursework: 'Software Development: Full Stack, Design and Analysis of Database Systems, Computer Algorithms',
+  'sports-tech': {
+    label: 'Sports Technology / Sports Data & Analytics',
+    coursework: 'Design and Analysis of Database Systems, Computer Algorithms, Software Development: Full Stack',
     skills: {
-      Languages: 'Python, SQL, JavaScript, React.js, Node.js, HTML, C++',
-      Tools: 'Adobe Suite, MacOS, Windows OS, Google Suite, Asana, Docker',
-      'Other Skills': 'Sports Analytics & Data Visualization, Freelance Photography/Videography, Social Media Management, Data Analysis, AI Prompt Engineering',
+      Languages: 'Python, SQL, R-Studio, JavaScript, React.js, Node.js, C++',
+      Tools: 'MacOS, Windows OS, Docker, Google Suite, Asana',
+      'Other Skills': 'Sports Analytics & Data Visualization, Statistical Analysis, Data Analysis, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports technology platform allowing users to selectively find statistics from individual games, players, and teams. Built with Python and SQL to remove the need for manual sports data gathering — direct crossover with sports broadcast analytics and production workflows.' },
-      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Developed a file-processing script that scans an input folder, parses MacOS "locked" camera-file metadata, creates copies, strips metadata, and organizes output — built to speed up real gameday photo/video workflows.' },
-      { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Full-stack software and photography portfolio (React.js, EmailJS, Cloudflare, Firebase) showcasing project and photography work, with image submission and account features.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool allowing users to selectively find and pull statistics from individual games, players, and teams via SQL-driven data pipelines. Built with Python and SQL to remove the need for manual sports data gathering.' },
+      { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, with a SQL-backed account system. JavaScript, CSS, HTML, SQL.' },
+      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Developed a file-processing script that scans an input folder, parses MacOS "locked" metadata, creates copies, strips metadata, and organizes output.' },
     ],
     employment: [
-      { title: 'Gold Level Leader – Creative Media Intern', org: 'University of Colorado Boulder', dates: 'August 2024 – Present', bullets: [
-        'Captured and edited photo/video for over 100 live university athletic competitions, practices, and media days, working directly within gametime production operations',
-        'Edited and delivered images in a fast-paced gametime environment generating over 1 million views',
-        'Mentored newer interns on game-day operations, efficient editing techniques, and shooting skills',
-      ]},
       { title: 'AI Assisted Researcher', org: 'Brian Hewlett LLC', dates: 'Summer 2026', bullets: [
         'Designed prompts to automate consistency across employees, cutting review time from 5 hours to 1',
         'Leveraged AI to synthesize marketing techniques and data points into content plans',
+        'Structured and designed reports to efficiently guide new content strategies',
+      ]},
+      { title: 'Gold Level Leader – Creative Media Intern', org: 'University of Colorado Boulder', dates: 'August 2024 – Present', bullets: [
+        'Embedded within CU Boulder Athletics\' gameday operations for two years, gaining first-hand exposure to how a college athletics department runs its live sports and stats operations',
       ]},
     ],
     leadership: [
@@ -125,7 +124,7 @@ const TRACKS = {
       ]},
     ],
     honors: ["Dean's List, University of Colorado Boulder, May 2025", 'Salutatorian, Golden High School', 'Eagle Scout, Scouting of America, November 2021'],
-    otherInterests: 'Sports analytics and data visualization, freelance photography and videography (portraits, social media, web content), personal health and fitness (CU Club Track and Field)',
+    otherInterests: 'Sports analytics and data visualization, personal health and fitness (CU Club Track and Field), technology development and integration',
   },
   leadership: {
     label: 'Leadership-Track Internship',

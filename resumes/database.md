@@ -16,7 +16,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 ## Projects
 **Gameday Stats** — In Progress
 - Designing and documenting the schema and query requirements for a database-oriented tool allowing users to selectively query statistics from individual games, players, and teams
-- Removes the need for users to manually acquire data by leveraging SQL techniques to select and filter stats
+- Removes the need for users to manually acquire data by leveraging SQL techniques to select and filter stats across a relational database
 - Built with Python and SQL
 
 **Personal Portfolio Website** — Summer 2026
@@ -54,3 +54,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-08-25: Initial draft created for the database track. Led with Gameday Stats and Database Systems coursework, emphasized SQL/data-analysis skills and the AI Assisted Researcher's data-synthesis work.
 - 2026-08-25: Adjusted for this week's matches (Boeing Data Analytics Intern, ByteDance Distributed NoSQL Database Systems, Freddie Mac Software Developer Intern). Added Python to the Languages line (grounded — used in Gameday Stats) since Boeing's listing calls out Python/R alongside SQL and Excel; reworded the AI Assisted Researcher bullet to lead with "cleaned and synthesized" to mirror Boeing's data-cleaning/EDA language.
 - 2026-08-28: Adjusted for Uline Database Administrator Internship posting (Tier B, fit 3) — reworded the Gameday Stats bullet to explicitly call out "documenting the schema and query requirements," mirroring Uline's "collaborate...to understand and document technology requirements" language, since the posting is DBA-support-process focused rather than pure development.
+- 2026-09-02: Adjusted for Protiviti Denver Technology Consulting Intern posting (Tier B, fit 5) — added "relational database" language to the Gameday Stats bullet to mirror Protiviti's SQL Server/MySQL/Oracle database-management-systems framing.

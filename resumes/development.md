@@ -20,12 +20,12 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - Stack: JavaScript, CSS, HTML, SQL
 
 **Gameday Stats** — In Progress
-- Owning a database-backed tool end-to-end, from schema design through query logic, that lets users selectively pull statistics for individual games, players, and teams
-- Implementing SQL-driven backend query logic in Python to eliminate manual data-gathering for end users
+- Owning a database-backed tool end-to-end, from requirements through schema design and query logic, that lets users selectively pull statistics for individual games, players, and teams
+- Implementing and testing SQL-driven backend query logic in Python to eliminate manual data-gathering for end users
 - Stack: Python, SQL
 
 **Photo Sorter** — Winter 2025-26
-- Built a file-processing script that scans an input folder, parses MacOS "locked" metadata, duplicates matching files, strips the metadata, and moves copies into a target folder
+- Built a file-processing script that scans an input folder, parses MacOS "locked" metadata on camera image files, duplicates matching files, strips the metadata, and moves copies into a target folder
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
@@ -59,3 +59,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-08-28: Adjusted for this week's matches (Advanced Space, Deepgram, The Trade Desk — Tier C/B). Reworded the Gameday Stats bullet to lead with end-to-end ownership ("schema design through query logic") to mirror Trade Desk's "own and ship an end-to-end project" framing and Advanced Space's mentee-owns-a-project model; reworded the AI Assisted Researcher bullet to "built and shipped AI-assisted prompt workflows" to mirror Deepgram's explicit ask for shipped, AI-assisted project work.
 - 2026-08-29: Adjusted for CTGT Software Engineering Intern posting (Tier C, fit 3) — reworded the AI Assisted Researcher bullet to "designed and owned...end-to-end, enforcing consistent, reliable output" to mirror CTGT's AI-reliability/governance focus and its "own a meaningful piece of work end to end" framing.
 - 2026-09-01: Adjusted for this week's Tier C startup matches (Netic, Dedalus Labs, Circleback, Ellipsis Labs, JETSWEAT). Reworded the Personal Portfolio Website bullet to emphasize solo, full-stack ownership ("owned the project solo end-to-end") to mirror the broad-ownership-at-a-small-team framing common to early-stage YC-style postings; reworded the Gameday Stats bullet to call out "backend query logic" specifically to mirror Ellipsis Labs' backend-heavy engineering focus.
+- 2026-09-02: Adjusted for this week's matches (Judi Health, Workiva — Tier C/B — and Oculi — Tier C). Reworded the Gameday Stats bullet to start from "requirements" to mirror Judi Health's "design to delivery" partnering-with-PMs framing; added "and testing" to the SQL/Python query-logic bullet to mirror Workiva's code-review/unit-test agile process; reworded the Photo Sorter bullet to specify "camera image files" to mirror Oculi's imaging/camera-software focus.
