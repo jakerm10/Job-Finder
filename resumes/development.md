@@ -9,7 +9,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - Relevant Coursework: Software Development: Full Stack, Computer Algorithms, Computer Systems, Design and Analysis of Database Systems
 
 ## Technical Skills
-- **Languages:** C++, Python, React.js, JavaScript, Node.js, C, HTML, SQL, R-Studio, Arduino
+- **Languages:** C++, C, Python, React.js, JavaScript, Node.js, HTML, SQL, R-Studio, Arduino
 - **Tools:** Azure DevOps, Docker, Postman, Salesforce, Microsoft Excel, MacOS, Windows OS, Adobe Suite, Google Suite, Asana
 - **Other:** AI Prompt Engineering, Analytical Problem Solving, Project Management, Data Analysis
 
@@ -25,7 +25,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - Stack: Python, SQL
 
 **Photo Sorter** — Winter 2025-26
-- Built a file-processing pipeline for camera image files that scans an input folder, parses MacOS "locked" metadata, duplicates matching files, strips the metadata, and moves copies into a target folder
+- Built a file-processing pipeline for camera image files at the systems level — scanning an input folder, parsing MacOS "locked" metadata, duplicating matching files, stripping the metadata, and moving copies into a target folder
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
@@ -61,3 +61,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-09-01: Adjusted for this week's Tier C startup matches (Netic, Dedalus Labs, Circleback, Ellipsis Labs, JETSWEAT). Reworded the Personal Portfolio Website bullet to emphasize solo, full-stack ownership ("owned the project solo end-to-end") to mirror the broad-ownership-at-a-small-team framing common to early-stage YC-style postings; reworded the Gameday Stats bullet to call out "backend query logic" specifically to mirror Ellipsis Labs' backend-heavy engineering focus.
 - 2026-09-02: Adjusted for this week's matches (Judi Health, Workiva — Tier C/B — and Oculi — Tier C). Reworded the Gameday Stats bullet to start from "requirements" to mirror Judi Health's "design to delivery" partnering-with-PMs framing; added "and testing" to the SQL/Python query-logic bullet to mirror Workiva's code-review/unit-test agile process; reworded the Photo Sorter bullet to specify "camera image files" to mirror Oculi's imaging/camera-software focus.
 - 2026-09-02: Adjusted for this week's matches (Rivian Camera Software Intern — Tier B, fit 5 — and Flomad Labs R&D Computer Vision Engineering Intern — Tier C). Reworded the Photo Sorter bullet to call it a "file-processing pipeline for camera image files" to mirror Rivian's Camera/Imaging team's "E2E SW pipelines" framing and Flomad's applied computer-vision/imaging focus.
+- 2026-09-03: Adjusted for this week's matches (Axon Camera Platform Firmware Internship — Tier B, fit 5, ⭐ ideal fit — and York Space Systems Flight Software Systems Engineer Intern — Tier C, fit 4). Moved C ahead of Python and next to C++ in Languages, and reworded the Photo Sorter bullet to frame it as "systems-level" file processing, to better mirror the embedded/systems C/C++ emphasis in both postings (Axon's SoC/microcontroller firmware work, York's C/C++/Rust/Linux/FreeRTOS stack) — no new skills claimed, just reordering and framing around what's already true.

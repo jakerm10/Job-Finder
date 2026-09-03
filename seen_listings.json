@@ -724,5 +724,469 @@
     "ideal_fit": true,
     "last_verified": "2026-09-03",
     "delisted": false
+  },
+  {
+    "listing_id": "anduril-industries-2027-software-engineer-intern",
+    "company": "Anduril Industries",
+    "role": "2027 Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007",
+    "location": "Multiple US locations (incl. Atlanta, Boston, Colorado, California)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "Anduril's 12-week Summer 2027 program lists Colorado among its office locations, matching my location preference directly.",
+      "Defense-tech scale problems (autonomy, sensor fusion, distributed systems) go well beyond anything I've touched in coursework or my own projects."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "intuit-summer-2027-software-engineering-intern-full-stack",
+    "company": "Intuit",
+    "role": "Summer 2027 Software Engineering Intern - Full Stack",
+    "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864",
+    "location": "Mountain View, CA",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A 12-week full-stack internship at consumer-fintech scale (TurboTax/QuickBooks) is a natural extension of the full-stack work I've already done on my portfolio site.",
+      "Long-shot given applicant volume, but a strong brand name to have applied to."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "imc-trading-software-engineer-intern-summer-2027",
+    "company": "IMC Trading",
+    "role": "Software Engineer Intern - Summer 2027",
+    "url": "https://www.imc.com/us/careers/jobs/4823924101",
+    "location": "Chicago, IL",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A top-tier quant trading firm's high-performance-computing environment would push my Computer Systems and Algorithms coursework into a genuinely demanding setting.",
+      "Open to students graduating between Sept 2027 and July 2028, which matches my own timeline well."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "cargill-software-engineer-intern-summer-2027",
+    "company": "Cargill",
+    "role": "Software Engineer Intern - Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-atlanta-ga-at-cargill-4448070670",
+    "location": "Atlanta, GA",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A Fortune 100 global company with a dedicated Summer 2027 SWE internship cohort already posted.",
+      "Large-scale supply-chain/agribusiness software is a different domain than most of my other applications, which broadens my exposure."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "atoms-software-engineer-intern-summer-2027",
+    "company": "Atoms",
+    "role": "Software Engineer Intern - Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-atoms-4450003741",
+    "location": "Not specified (US)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "Small-company scale means more ownership and visibility on real shipped features, similar to what I already value about owning Gameday Stats end-to-end.",
+      "An active, currently-recruiting Summer 2027 posting at a lean team."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "vertiv-software-engineering-intern-summer-2027",
+    "company": "Vertiv",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-vertiv-4451548801",
+    "location": "Not specified (US)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A mid-size, publicly-traded critical-power/infrastructure tech company with an active Summer 2027 pipeline.",
+      "Software tied to real physical infrastructure (data centers) is an interesting systems-level angle beyond typical app-layer SWE work."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "trillium-trading-software-engineer-intern-summer-2027",
+    "company": "Trillium Trading",
+    "role": "Software Engineer Intern - Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2027-at-trillium-trading-4450742162",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A boutique proprietary trading firm where a smaller team likely means more direct engineering responsibility as an intern.",
+      "Low-latency/high-performance trading software is a strong technical stretch to add alongside my other applications."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "general-matter-summer-2027-internship-software-engineering",
+    "company": "General Matter",
+    "role": "Summer 2027 Internship - Software Engineering",
+    "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-software-engineering-at-general-matter-4456403558",
+    "location": "Not specified (US)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A small, mission-driven advanced-energy startup \u2014 the kind of high-ownership environment I look for in early-stage teams.",
+      "Software supporting novel nuclear fuel technology is a differentiated domain from the typical big-tech internship."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "wd-western-digital-summer-2027-software-engineering-internship",
+    "company": "WD (Western Digital)",
+    "role": "Summer 2027 - Software Engineering Internship",
+    "url": "https://www.linkedin.com/jobs/view/summer-2027-software-engineering-internship-at-wd-4440179869",
+    "location": "Not specified (US)",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A large, established storage/hardware company whose software teams build data-infrastructure-adjacent systems, which overlaps with my database-track interest too.",
+      "Good brand-name resume value alongside my more startup-heavy applications."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "atlassian-software-engineer-intern-2027-summer-u-s",
+    "company": "Atlassian",
+    "role": "Software Engineer Intern, 2027 Summer U.S.",
+    "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern,-2027-summer-u.s./job",
+    "location": "Seattle, WA or San Francisco, CA",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A 12-week paid program at a top developer-tools company (Jira/Confluence/Trello).",
+      "The posted stack (Java, Python, Golang, TypeScript) overlaps with languages I already use."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "palantir-technologies-software-engineer-internship",
+    "company": "Palantir Technologies",
+    "role": "Software Engineer, Internship",
+    "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c",
+    "location": "Denver, CO",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "Denver, CO office listing is a direct match for my location preference.",
+      "Work on the Gotham/Foundry/Apollo platforms is large-scale, high-impact software engineering.",
+      "Explicitly open to candidates graduating 2027, matching my own timeline as a rising-senior-year internship."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "amd-2027-undergrad-firmware-engineering-co-op-intern",
+    "company": "AMD",
+    "role": "2027 Undergrad Firmware Engineering Co-op/Intern",
+    "url": "https://careers.amd.com/careers-home/jobs/90807?lang=en-us",
+    "location": "Multiple locations",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A major semiconductor company with a dedicated 2027 undergrad firmware track already posted.",
+      "Firmware engineering would deepen my low-level/embedded-systems experience alongside my higher-level SWE applications."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "true-anomaly-flight-software-intern",
+    "company": "True Anomaly",
+    "role": "Flight Software Intern",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5047530007",
+    "location": "Long Beach, CA (company HQ in Colorado)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A small, fast-moving space-defense startup building flight software for real spacecraft \u2014 high ownership for an intern.",
+      "Direct C/C++ and embedded-systems work on device drivers and comm protocols for flight hardware.",
+      "Company is headquartered in Colorado, so it's a plausible path back toward my home state even though this posting is based in Long Beach."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "york-space-systems-flight-software-systems-engineer-intern",
+    "company": "York Space Systems",
+    "role": "Flight Software Systems Engineer Intern",
+    "url": "https://www.dice.com/job-detail/818bf7b6-703c-42d5-950e-62e813c2a46e",
+    "location": "Greenwood Village, CO",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "In-person role in Greenwood Village, CO \u2014 a direct match for my location preference.",
+      "A small spacecraft-production company gives real hands-on flight/ground software experience.",
+      "Preferred stack (C/C++, Rust, Linux, FreeRTOS) is exactly the systems-programming skill set I want to build. Note: only found via a Dice mirror \u2014 worth double-checking York's own careers page before applying."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "axon-us-firmware-engineering-internship-camera-platform-firmware",
+    "company": "Axon",
+    "role": "US Firmware Engineering Internship (Camera Platform Firmware)",
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800628003",
+    "location": "Seattle, WA",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "Directly builds device-level firmware for Axon's camera-based products (body cams, etc.) \u2014 a strong match for the camera/photography-software track.",
+      "Exposure to embedded SoCs, microcontrollers, and wireless protocols (Wi-Fi/BLE/5G) is meaty embedded-systems work.",
+      "$45/hr starting pay signals a serious, well-resourced internship program."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "bytedance-software-engineer-intern-relational-database-2027-summer",
+    "company": "ByteDance",
+    "role": "Software Engineer Intern (Relational Database) - 2027 Summer",
+    "url": "https://joinbytedance.com/search/7678449088065997109",
+    "location": "Seattle, WA / San Jose, CA",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "Direct relational-database-kernel engineering work, squarely in my database track.",
+      "Distinct from the NoSQL role I'm already tracking at ByteDance, so it's genuinely additional database-track exposure at the same company.",
+      "Requires C/C++, Golang, Java or Python plus distributed-systems knowledge \u2014 a strong technical stretch beyond my coursework."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "capital-one-data-analyst-intern-summer-2027",
+    "company": "Capital One",
+    "role": "Data Analyst Intern - Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/data-analyst-intern-summer-2027-at-capital-one-4436272750",
+    "location": "McLean, VA / Richmond, VA",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A 10-week paid internship with a clear path to Capital One's rotational full-time data programs.",
+      "Large-scale customer and operational data problems fit my data/database interest and Statistics minor well."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "tiktok-data-engineer-intern-data-platform-global-live-2027-summer",
+    "company": "TikTok",
+    "role": "Data Engineer Intern (Data Platform Global Live) - 2027 Summer",
+    "url": "https://www.linkedin.com/jobs/view/data-engineer-intern-data-platform-global-live-2027-summer-at-tiktok-4454256382",
+    "location": "San Jose, CA",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A data-platform-focused data engineering role at massive real-time scale (live streaming data).",
+      "A 12-week Summer 2027 cohort already posted with a clear application window."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "the-hartford-tech-data-program-summer-2027-data-engineer-intern",
+    "company": "The Hartford",
+    "role": "Tech & Data Program Summer 2027 - Data Engineer Intern",
+    "url": "https://www.linkedin.com/jobs/view/tech-data-program-summer-2027-data-engineer-intern-columbus-at-the-hartford-4456527477",
+    "location": "Columbus, OH",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A named, structured 'Tech & Data Program' suggests strong mentorship and cohort support for interns.",
+      "Insurance-industry data engineering is a less-saturated applicant pool than big tech, and a solid mid-size Tier B target."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "new-york-life-2027-technology-data-ai-ventures-summer-internship-program-data-engineer-intern",
+    "company": "New York Life",
+    "role": "2027 Technology, Data, AI & Ventures Summer Internship Program - Data Engineer Intern",
+    "url": "https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-data-engineer-intern-at-new-york-life-4447551966",
+    "location": "New York, NY",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "A dedicated data-engineer track within a named Technology/Data/AI/Ventures internship program.",
+      "A large, stable financial-services employer with structured intern programming, good diversification beyond big tech and startups."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "denver-broncos-data-science-intern",
+    "company": "Denver Broncos",
+    "role": "Data Science Intern",
+    "url": "https://www.teamworkonline.com/football-jobs/denver-broncos-jobs/denver-broncos-jobs/data-science-intern-1985063",
+    "location": "Denver, CO",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "An NFL team based in Denver, CO \u2014 a rare combination of my top-priority sports-tech track and my preferred location.",
+      "Supports Football Operations (Coaching, Scouting, Video, Player Performance) with real end-to-end data science pipelines.",
+      "Requires R/Python and SQL, directly matching my technical background and Gameday Stats work."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "houston-astros-baseball-operations-intern-r-d",
+    "company": "Houston Astros",
+    "role": "Baseball Operations Intern (R&D)",
+    "url": "https://www.teamworkonline.com/baseball-jobs/houstonbaseball/houston-astros/baseball-operations-intern-2135083",
+    "location": "Houston, TX",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "The R&D department explicitly ingests data, builds software applications, and develops models for player evaluation \u2014 one of the most data/software-forward front offices in pro sports.",
+      "Directly in line with the sports-data pipeline work I'm already building with Gameday Stats.",
+      "Note: this posting reads as unpaid/part-time \u2014 worth weighing against my paid options before committing time to apply."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "oklahoma-city-thunder-software-engineer-intern-data-science-solutions",
+    "company": "Oklahoma City Thunder",
+    "role": "Software Engineer Intern / Data Science & Solutions",
+    "url": "https://www.teamworkonline.com/basketball-jobs/oklahoma-city-thunder-jobs/oklahoma-city-thunder/software-engineer-intern-data-science-solutions-2018447",
+    "location": "Oklahoma City, OK (remote option per some postings)",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "An NBA team's Data Science & Solutions group doing real basketball-ops software/data engineering, not just stats reporting.",
+      "Front/back-end, data engineering, and database administration experience are all called out as relevant \u2014 a direct match for my skill set."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
+  },
+  {
+    "listing_id": "cincinnati-reds-data-engineering-intern",
+    "company": "Cincinnati Reds",
+    "role": "Data Engineering Intern",
+    "url": "https://www.teamworkonline.com/baseball-jobs/cincinnati-reds/cincinnati-reds/data-engineering-intern-2121126",
+    "location": "Cincinnati, OH",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-03",
+    "why_interested": [
+      "The Baseball Data and Development department role explicitly builds data pipelines and does SQL optimization for sports science \u2014 very close to my Gameday Stats work.",
+      "Stated program goal is developing the intern into a full junior data engineer, suggesting real technical depth.",
+      "Note: this posting reads as part-time/unpaid \u2014 worth weighing against my paid options before committing time to apply."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-09-03"
   }
 ]

@@ -11,7 +11,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 ## Projects
 **Gameday Stats** — In Progress
 - Designing a database-oriented sports statistics tool allowing users to selectively find and pull accurate statistics for individual games, players, and teams via SQL-driven data pipelines
-- Built with Python and SQL to remove the need for manual sports data gathering
+- Built end-to-end with Python and SQL to remove the need for manual sports data gathering
 
 **Personal Portfolio Website** — Summer 2026
 - Full-stack site (React.js, EmailJS, Cloudflare, Firebase) with a SQL-backed account system. JavaScript, CSS, HTML, SQL.
@@ -57,3 +57,4 @@ Sports analytics and data visualization, personal health and fitness (CU Club Tr
 - 2026-09-02: **Scope migration: sports-media → sports-tech.** Track renamed and rescoped to sports data/software only (creative-media/content roles now tracked elsewhere). Rebalanced: Gameday Stats now leads Projects and Employment leads with AI Assisted Researcher; Creative Media Intern trimmed from 3 photo/video-editing bullets down to a single "embedded in athletics operations" bullet per the new scope, with editing/mentoring bullets removed. Dropped Adobe Suite, Freelance Photography/Videography, and Social Media Management from skills (no longer relevant to this track); added R-Studio and Statistical Analysis to better match sports-data roles.
 - 2026-09-02: Adjusted for Green Bay Packers Football Analytics Engineering Intern posting (Tier B, fit 5) — reworded the Gameday Stats bullet to call out "SQL-driven data pipelines," mirroring the posting's "build data pipelines" framing for an NFL team's Football Operations analytics group.
 - 2026-09-02: Adjusted for Stats Perform U.S. Sports Data Intern posting (Tier B, fit 5) — added "accurate" to the Gameday Stats bullet to mirror Stats Perform's data-accuracy/client-delivery framing for its player-tracking-data operations role.
+- 2026-09-03: Adjusted for this week's cluster of four pro-team sports-tech postings (Denver Broncos Data Science Intern, Houston Astros Baseball Operations Intern/R&D, Oklahoma City Thunder Software Engineer Intern/Data Science & Solutions, Cincinnati Reds Data Engineering Intern — all Tier B, fit 5, ⭐ ideal fit). Added "end-to-end" to the Gameday Stats build line to mirror the full-pipeline (ingest through delivery) framing common across all four front-office postings; R-Studio and Python were already listed in Technical Skills, directly matching the Broncos' R/Python/SQL requirement.
