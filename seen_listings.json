@@ -4,7 +4,7 @@
     "company": "SpaceX",
     "role": "Software Engineering Internship/Co-op",
     "url": "https://job-boards.greenhouse.io/spacex/jobs/8621757002",
-    "location": "Multiple (US) \u2014 incl. Hawthorne, CA",
+    "location": "Multiple (US) — incl. Hawthorne, CA",
     "track": "development",
     "tier": "A",
     "fit_score": 3,
@@ -15,7 +15,9 @@
       "Long-shot given the volume of applicants, but the upside (flight software, real hardware-software integration) is worth a shot."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "roblox-software-engineer-intern",
@@ -33,7 +35,9 @@
       "A recognizable name on my resume alongside my smaller-company applications."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "salesforce-summer-2027-intern-software-engineer",
@@ -51,7 +55,9 @@
       "Long-shot given applicant volume, but worth a shot given my existing Salesforce familiarity."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "zipline-software-engineer-intern-summer-2027",
@@ -69,7 +75,9 @@
       "Mid-size enough (Tier B) that my application isn't lost in the same flood as the mega-brand postings."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "hudson-river-trading-software-engineering-internship-c-or-python",
@@ -87,25 +95,29 @@
       "Long-shot given quant-trading applicant volume, but a strong technical brand to have on file."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "boeing-summer-2027-internship-program-data-analytics-intern",
     "company": "Boeing",
     "role": "Summer 2027 Internship Program - Data Analytics Intern",
     "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-data-analytics-intern/185/98720782192",
-    "location": "Multiple (US) \u2014 incl. Everett, WA",
+    "location": "Multiple (US) — incl. Everett, WA",
     "track": "database",
     "tier": "A",
     "fit_score": 4,
     "deadline": "TBD",
     "first_seen": "2026-08-25",
     "why_interested": [
-      "Data analytics work at Boeing's scale would give me real experience with large, messy datasets \u2014 a step up from my own Gameday Stats project.",
+      "Data analytics work at Boeing's scale would give me real experience with large, messy datasets — a step up from my own Gameday Stats project.",
       "Aligns with my Statistics minor and interest in turning raw data into usable insight."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "bytedance-software-engineer-intern-distributed-nosql-database-systems",
@@ -123,7 +135,9 @@
       "Long-shot given applicant volume for a company this size, but a strong technical stretch goal."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "freddie-mac-software-developer-intern-single-family",
@@ -141,7 +155,9 @@
       "A more predictable, mid-size applicant pool than the mega-brand postings."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "sportsmedia-technology-corp-smt-2027-spring-and-summer-internships-engineering-t",
@@ -155,11 +171,13 @@
     "deadline": "TBD",
     "first_seen": "2026-08-25",
     "why_interested": [
-      "SportsMedia Technology Corp builds the graphics/timing systems actually used during live sports broadcasts \u2014 a direct extension of my Creative Media Intern work shooting live games.",
+      "SportsMedia Technology Corp builds the graphics/timing systems actually used during live sports broadcasts — a direct extension of my Creative Media Intern work shooting live games.",
       "Small, specialized company in the exact sports-tech niche I want to build a career in."
     ],
     "expired": false,
-    "ideal_fit": true
+    "ideal_fit": true,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "espn-summer-2027-internship-program-stats-information-data-and-analytics",
@@ -177,7 +195,9 @@
       "Long-shot given ESPN's brand recognition and applicant volume, but a dream-role fit for the sports-media track."
     ],
     "expired": false,
-    "ideal_fit": true
+    "ideal_fit": true,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "advanced-space-software-engineering-summer-intern-2027",
@@ -191,11 +211,13 @@
     "deadline": "Rolling",
     "first_seen": "2026-08-28",
     "why_interested": [
-      "Colorado-based small aerospace company \u2014 realistic odds and a short commute from Boulder.",
+      "Colorado-based small aerospace company — realistic odds and a short commute from Boulder.",
       "Rolling deadline and small team size means real project ownership as an intern, similar to what I look for in Gameday Stats."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "deepgram-software-engineering-internship-fall-2026-summer-2027",
@@ -213,7 +235,9 @@
       "Remote role, so it's a realistic option even without relocating."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "the-trade-desk-2027-north-america-software-engineering-internship",
@@ -231,7 +255,9 @@
       "Their \"own and ship an end-to-end project\" framing matches exactly how I already work on Gameday Stats."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "uline-database-administrator-internship-summer-2027",
@@ -249,25 +275,29 @@
       "Complimentary housing and a structured mentor program make it a realistic, well-supported internship."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "pentair-engineering-leadership-development-internship-program-summer-2027",
     "company": "Pentair",
     "role": "Engineering Leadership Development Internship Program - Summer 2027",
     "url": "https://careers.pentair.com/us/en/job/R23697/Engineering-Leadership-Development-Internship-Program-Summer-2027",
-    "location": "Multiple (US) \u2014 incl. Golden Valley, MN",
+    "location": "Multiple (US) — incl. Golden Valley, MN",
     "track": "leadership",
     "tier": "B",
     "fit_score": 3,
     "deadline": "TBD",
     "first_seen": "2026-08-28",
     "why_interested": [
-      "Explicitly structured as a leadership-development program pairing real business projects with mentorship \u2014 matches my Engineering Leadership Certificate directly.",
+      "Explicitly structured as a leadership-development program pairing real business projects with mentorship — matches my Engineering Leadership Certificate directly.",
       "Cross-functional exposure to Product Engineering and Business Unit leadership is exactly the breadth I want from a leadership-track internship."
     ],
     "expired": false,
-    "ideal_fit": false
+    "ideal_fit": false,
+    "last_verified": "2026-09-03",
+    "delisted": false
   },
   {
     "listing_id": "ctgt-software-engineering-intern-summer-2027",
@@ -282,7 +312,7 @@
     "first_seen": "2026-08-29",
     "why_interested": [
       "CTGT's AI-interpretability/governance focus builds directly on the reliability-and-consistency work I did as an AI Assisted Researcher.",
-      "Small YC startup \u2014 realistic odds compared to the mega-brand AI labs."
+      "Small YC startup — realistic odds compared to the mega-brand AI labs."
     ],
     "expired": false,
     "ideal_fit": false
@@ -299,7 +329,7 @@
     "deadline": "Rolling",
     "first_seen": "2026-08-29",
     "why_interested": [
-      "Upper Hand builds sports/fitness management software \u2014 almost exactly the \"sports technology platform\" I'm already building with Gameday Stats.",
+      "Upper Hand builds sports/fitness management software — almost exactly the \"sports technology platform\" I'm already building with Gameday Stats.",
       "Small company with a flexible, intern-friendly schedule and a stack (React/JS) I already know."
     ],
     "expired": false,
@@ -335,7 +365,7 @@
     "deadline": "TBD",
     "first_seen": "2026-08-29",
     "why_interested": [
-      "RTX's Leadership Development Program pairs real engineering rotations with structured leadership training \u2014 matches the Engineering Leadership Certificate I'm pursuing.",
+      "RTX's Leadership Development Program pairs real engineering rotations with structured leadership training — matches the Engineering Leadership Certificate I'm pursuing.",
       "Long-shot given RTX's size and applicant volume, but a strong structured program if it comes through."
     ],
     "expired": false,
@@ -353,7 +383,7 @@
     "deadline": "TBD",
     "first_seen": "2026-09-01",
     "why_interested": [
-      "Full-stack work at a small, fast-moving startup means real, user-facing ownership early on \u2014 the same end-to-end ownership I like about my Gameday Stats project.",
+      "Full-stack work at a small, fast-moving startup means real, user-facing ownership early on — the same end-to-end ownership I like about my Gameday Stats project.",
       "Getting hands-on with an AI agent platform's engineering side builds directly on the AI-assisted workflow design I did as a Researcher at Brian Hewlett LLC.",
       "A small team gives more surface area to grow full-stack skills beyond what a single class or project can teach."
     ],
@@ -448,7 +478,7 @@
     "deadline": "TBD",
     "first_seen": "2026-09-01",
     "why_interested": [
-      "It's explicitly structured as a leadership-development program, not just a technical rotation \u2014 a good match for the Engineering Leadership Certificate I'm pursuing.",
+      "It's explicitly structured as a leadership-development program, not just a technical rotation — a good match for the Engineering Leadership Certificate I'm pursuing.",
       "The program pairs training/coaching with real project work, similar to what I valued about mentoring newer interns as a Creative Media Intern.",
       "Exposure to how a large regional company runs its technology and data operations would round out my mostly startup/small-team experience so far."
     ],
@@ -469,7 +499,7 @@
     "why_interested": [
       "Hands-on work building data pipelines is a direct extension of what I'm already doing with Gameday Stats' SQL-driven query logic.",
       "Working with the Data Science and Data Engineering teams on forecasting/analytics data would push my Statistics minor into a real quantitative business context.",
-      "Note: the posted deadline (Sept 1) is essentially today by the time this shows up in the weekly report \u2014 treat as a long-shot/fast-apply unless a later cycle reopens."
+      "Note: the posted deadline (Sept 1) is essentially today by the time this shows up in the weekly report — treat as a long-shot/fast-apply unless a later cycle reopens."
     ],
     "expired": true,
     "ideal_fit": false
@@ -540,7 +570,7 @@
     "deadline": "Rolling",
     "first_seen": "2026-09-02",
     "why_interested": [
-      "Oculi builds imaging-sensor silicon that mimics biological vision \u2014 real camera/imaging software work, not just an app built on top of someone else's camera stack.",
+      "Oculi builds imaging-sensor silicon that mimics biological vision — real camera/imaging software work, not just an app built on top of someone else's camera stack.",
       "Small, deep-tech startup means direct exposure to the full computer-vision pipeline (data collection, algorithms, deployment) rather than one narrow slice of it."
     ],
     "expired": false,
