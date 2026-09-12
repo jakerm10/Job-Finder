@@ -16,7 +16,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 ## Projects
 **Gameday Stats** — In Progress
 - Designing and documenting the schema and query requirements for a database-oriented tool allowing users to selectively query statistics from individual games, players, and teams
-- Removes the need for users to manually acquire data by leveraging SQL techniques to select, filter, and engineer stats across a relational database
+- Removes the need for users to manually acquire data by leveraging SQL techniques to select, filter, engineer, and maintain stats across a relational database
 - Built with Python and SQL
 
 **Personal Portfolio Website** — Summer 2026
@@ -56,3 +56,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-08-28: Adjusted for Uline Database Administrator Internship posting (Tier B, fit 3) — reworded the Gameday Stats bullet to explicitly call out "documenting the schema and query requirements," mirroring Uline's "collaborate...to understand and document technology requirements" language, since the posting is DBA-support-process focused rather than pure development.
 - 2026-09-02: Adjusted for Protiviti Denver Technology Consulting Intern posting (Tier B, fit 5) — added "relational database" language to the Gameday Stats bullet to mirror Protiviti's SQL Server/MySQL/Oracle database-management-systems framing.
 - 2026-09-03: Adjusted for this week's matches (The Hartford Tech & Data Program and New York Life Technology, Data, AI & Ventures Program — both Tier B, fit 4). Added "and engineer" to the Gameday Stats bullet, mirroring the data-engineer-track language both structured programs use.
+- 2026-09-12: Adjusted for Life Time Inc. Database Administrator Intern posting (Tier C, fit 4) — added "and maintain" to the Gameday Stats bullet's SQL-technique list, mirroring the DBA-support/maintenance framing of a posting that names SQL Server, Azure, and Snowflake explicitly. Also reviewed against this week's other database matches (Aerospace Corporation Data Science Intern, Spectrum Data Developer, Walleye Capital, Mastercard, Continental Resources, American Express Data Engineer — all Tier A/B) — no further wording changes needed since the existing SQL/relational-database framing already covers their language.

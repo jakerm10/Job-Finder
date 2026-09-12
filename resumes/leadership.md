@@ -33,7 +33,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Owning a real-world, self-directed database-oriented tool end-to-end — from requirements through schema design — allowing users to selectively find statistics from individual games, players, and teams
+- Owning a real-world, self-directed technical project end-to-end — from requirements through schema design — allowing users to selectively find statistics from individual games, players, and teams
 - Built with Python and SQL
 
 **Personal Portfolio Website** — Summer 2026
@@ -55,3 +55,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-08-28: Adjusted for Pentair Engineering Leadership Development Internship Program posting (Tier B, fit 4) — reworded the Gameday Stats bullet around "real-world, self-directed" project ownership to mirror Pentair ELDP's "real-world, strategic business projects" framing, and reworded the Patrol Leader bullet to "cross-team communication" to echo the program's cross-functional collaboration with Product Engineering and Business Unit leadership.
 - 2026-09-01: Adjusted for Regions Bank 2027 ETP Intern — Technology, Operations, Digital, and Data posting (Tier B, fit 3) — reworded the AI Assisted Researcher bullet to call out "a repeatable practical/technical process," mirroring Regions ETP's stated "practical and technical curriculum" and training/coaching structure.
 - 2026-09-02: Adjusted for Corning Engineering Rotational Program posting (Tier B, fit 3) — reworded the Gameday Stats bullet to call out ownership "from requirements through schema design," mirroring Corning's rotational, hands-on-project-work structure.
+- 2026-09-12: Adjusted for this week's matches (Textron 2027 LDP — Information Technology, Parker Hannifin Engineering Leadership Development Program — both Tier B, and Avangrid Local Rotational Program: Technology, Digital & Analytics — Tier C). Reworded the Gameday Stats bullet from "database-oriented tool" to "technical project," a broader framing that mirrors the IT/engineering-generalist scope of all three rotational programs rather than over-indexing on database specifics.

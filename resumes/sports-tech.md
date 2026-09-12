@@ -10,7 +10,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing a database-oriented sports statistics tool allowing users to selectively find and pull accurate statistics for individual games, players, and teams via SQL-driven data pipelines
+- Designing a database-oriented sports statistics tool allowing users to selectively find and pull accurate, validated statistics for individual games, players, and teams via SQL-driven data pipelines
 - Built end-to-end with Python and SQL to remove the need for manual sports data gathering
 
 **Personal Portfolio Website** — Summer 2026
@@ -58,3 +58,4 @@ Sports analytics and data visualization, personal health and fitness (CU Club Tr
 - 2026-09-02: Adjusted for Green Bay Packers Football Analytics Engineering Intern posting (Tier B, fit 5) — reworded the Gameday Stats bullet to call out "SQL-driven data pipelines," mirroring the posting's "build data pipelines" framing for an NFL team's Football Operations analytics group.
 - 2026-09-02: Adjusted for Stats Perform U.S. Sports Data Intern posting (Tier B, fit 5) — added "accurate" to the Gameday Stats bullet to mirror Stats Perform's data-accuracy/client-delivery framing for its player-tracking-data operations role.
 - 2026-09-03: Adjusted for this week's cluster of four pro-team sports-tech postings (Denver Broncos Data Science Intern, Houston Astros Baseball Operations Intern/R&D, Oklahoma City Thunder Software Engineer Intern/Data Science & Solutions, Cincinnati Reds Data Engineering Intern — all Tier B, fit 5, ⭐ ideal fit). Added "end-to-end" to the Gameday Stats build line to mirror the full-pipeline (ingest through delivery) framing common across all four front-office postings; R-Studio and Python were already listed in Technical Skills, directly matching the Broncos' R/Python/SQL requirement.
+- 2026-09-12: Adjusted for this week's largest-ever sports-tech haul (Washington Commanders Data Analyst Intern, Kansas City Chiefs Data Science Intern, Utah Mammoth Software Engineer Intern/Hockey Operations, Houston Texans Business Intelligence Intern — all Tier B — plus Chicago Fire FC, Zoomph, FC Cincinnati, and SportsCapital — all Tier C — all fit 5, ⭐ ideal fit). Added "validated" to the Gameday Stats statistics-quality bullet, mirroring the data-quality/annotation emphasis common to Zoomph and SportsCapital's postings alongside the front-office analytics framing of the four pro-team roles.
