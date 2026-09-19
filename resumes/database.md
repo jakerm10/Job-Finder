@@ -15,7 +15,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing and documenting the schema and query requirements for a database-oriented tool allowing users to selectively query statistics from individual games, players, and teams
+- Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams
 - Removes the need for users to manually acquire data by leveraging SQL techniques to select, filter, engineer, and maintain stats across a relational database
 - Built with Python and SQL
 
@@ -57,3 +57,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-09-02: Adjusted for Protiviti Denver Technology Consulting Intern posting (Tier B, fit 5) — added "relational database" language to the Gameday Stats bullet to mirror Protiviti's SQL Server/MySQL/Oracle database-management-systems framing.
 - 2026-09-03: Adjusted for this week's matches (The Hartford Tech & Data Program and New York Life Technology, Data, AI & Ventures Program — both Tier B, fit 4). Added "and engineer" to the Gameday Stats bullet, mirroring the data-engineer-track language both structured programs use.
 - 2026-09-12: Adjusted for Life Time Inc. Database Administrator Intern posting (Tier C, fit 4) — added "and maintain" to the Gameday Stats bullet's SQL-technique list, mirroring the DBA-support/maintenance framing of a posting that names SQL Server, Azure, and Snowflake explicitly. Also reviewed against this week's other database matches (Aerospace Corporation Data Science Intern, Spectrum Data Developer, Walleye Capital, Mastercard, Continental Resources, American Express Data Engineer — all Tier A/B) — no further wording changes needed since the existing SQL/relational-database framing already covers their language.
+- 2026-09-19: Adjusted for this week's strong database haul (Ibotta Data Engineering Intern — fit 5 — plus Tri-State Generation & Transmission and Delta-Montrose Electric Association, both Tier C, fit 5, Colorado-based utility co-ops). Reworded the Gameday Stats bullet to call it a "reporting tool," mirroring the data-warehouse/centralized-reporting framing both Colorado utility postings use, grounded in what the project already does (letting users pull reports on demand). Also reviewed against Amgen (Data Engineer, Tier B) and LLNL (Data Science Institute Intern, Tier B) — no further wording changes needed since the existing Python/SQL and Statistics-minor framing already covers their language.

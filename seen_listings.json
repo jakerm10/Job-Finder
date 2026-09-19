@@ -2014,5 +2014,342 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false
+  },
+  {
+    "listing_id": "ibotta-software-engineering-intern-summer-2027",
+    "company": "Ibotta",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ibotta.com/jobs/internships/denver_job_posting/software-engineering-intern/R-101570",
+    "location": "Denver, CO (hybrid, 3 days/wk)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Denver-based and hybrid — a natural commute from CU Boulder.",
+      "Embedded directly on a product team building consumer rewards/fintech software, a good match for my React/JS full-stack background.",
+      "Structured 12-week intern program with real business initiatives rather than busywork."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "ibotta-data-engineering-intern-summer-2027",
+    "company": "Ibotta",
+    "role": "Data Engineering Intern (Summer 2027)",
+    "url": "https://jobs.ibotta.com/jobs/internships/hybrid-denver/data-engineering-intern/R-102117",
+    "location": "Denver, CO (hybrid, 3 days/wk)",
+    "track": "database",
+    "tier": "C",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Direct match for the SQL/Python data pipeline work I'm doing on Gameday Stats.",
+      "Denver-local and hybrid, so I could actually be on-site regularly.",
+      "Large-scale transaction/rewards data is a natural extension of the relational-database skills I've been building."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "amgen-undergrad-intern-data-engineer-technology-ai-data-summer-2027",
+    "company": "Amgen",
+    "role": "Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
+    "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+    "location": "Remote, US",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Building ETL pipelines with Python/SQL/AWS into an Enterprise Data Lake lines up directly with my database-tool project work.",
+      "Remote-eligible, so no relocation required to get real data-engineering experience.",
+      "Fortune-100 biotech gives strong resume weight for a data-track internship."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "tri-state-generation-and-transmission-association-it-integration-and-analytics-intern",
+    "company": "Tri-State Generation and Transmission Association",
+    "role": "IT Integration and Analytics Intern",
+    "url": "https://careers.tristate.coop/westminster-co/it-integration-and-analytics-intern/50D258F725AE440FA603370FBF101E53/job/",
+    "location": "Westminster, CO",
+    "track": "database",
+    "tier": "C",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Colorado-based regional utility co-op — a strong in-state, high-odds target.",
+      "Supports a data warehouse/centralized reporting build-out, directly relevant to my SQL/database coursework and Gameday Stats project.",
+      "Smaller org likely means real ownership over data infrastructure work as an intern rather than a narrow slice."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "honeywell-software-engineer-co-op-spring-summer-2027",
+    "company": "Honeywell",
+    "role": "Software Engineer Co-Op, Spring/Summer 2027",
+    "url": "https://careers.honeywell.com/us/en/job/req464557/Software-Eng-Co-op",
+    "location": "US (multiple locations)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Large industrial-tech co-op program building real production software across automation/AI/connected-data products.",
+      "Well-known engineering brand with a large, structured co-op pipeline, giving better-than-average odds for a Tier B target.",
+      "Hands-on team collaboration model fits my full-stack project experience."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "delta-montrose-electric-association-data-analytics-intern",
+    "company": "Delta-Montrose Electric Association",
+    "role": "Data Analytics Intern",
+    "url": "https://www.linkedin.com/jobs/view/data-analytics-intern-at-delta-montrose-electric-association-4397470842",
+    "location": "Montrose, CO",
+    "track": "database",
+    "tier": "C",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Colorado-based small electric co-op — a strong in-state, high-odds target.",
+      "Role explicitly works with SQL databases, Power BI, and enterprise data systems, a near-direct match to my database-project skillset.",
+      "Small team likely means broad, hands-on exposure rather than a narrow slice of the work."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "mastercard-software-engineer-intern-summer-2027",
+    "company": "Mastercard",
+    "role": "Software Engineer Intern, Summer 2027",
+    "url": "https://careers.mastercard.com/us/en/job/R-287618/Software-Engineer-Intern-Summer-2027-United-States",
+    "location": "O'Fallon, MO",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Major fintech brand for the resume, even as a long-shot Tier A target.",
+      "General software engineering track fits my full-stack background.",
+      "Large-scale payments infrastructure would be a step up in engineering rigor from my current projects."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "lawrence-livermore-national-laboratory-llnl-data-science-institute-undergraduate-student-intern-summer-2027",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "role": "Data Science Institute Undergraduate Student Intern, Summer 2027",
+    "url": "https://www.llnl.gov/join-our-team/careers/find-your-job/all/all/3743990010156866",
+    "location": "Livermore, CA",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "2027-01-15",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Prestigious national-lab data science program pairing interns with expert mentors on real research problems.",
+      "Strong resume credential for a data-track internship.",
+      "My Statistics minor and Python/SQL background are directly applicable to the ML/stats project work described."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "hp-iq-software-engineering-intern-aml-platform-summer-2027",
+    "company": "HP IQ",
+    "role": "Software Engineering Intern, AML Platform (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Builds the AI/ML platform orchestrating model lifecycle for agentic devices, aligning with my AI-prompt-engineering/automation work.",
+      "A newer, smaller-team HP AI venture spun out of HP gives startup-like exposure with big-company backing."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "d-e-shaw-co-systems-engineering-intern-new-york-summer-2027",
+    "company": "D. E. Shaw & Co.",
+    "role": "Systems Engineering Intern (New York) – Summer 2027",
+    "url": "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Hands-on database infrastructure, full-stack app, and DevOps work at a top-tier quant fund.",
+      "Strong mentorship and compensation reputation among quant-adjacent internships.",
+      "Would stretch my backend/SQL skills in a rigorous engineering culture."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "superhuman-software-engineering-intern-summer-2027",
+    "company": "Superhuman",
+    "role": "Software Engineering Intern – Summer 2027",
+    "url": "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0",
+    "location": "SF / NYC / Seattle (hybrid)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Full-stack feature ownership (front-end/back-end/mobile) on an AI productivity product used by millions.",
+      "Matches my React/JS full-stack background directly.",
+      "Small-team startup culture (now under Grammarly) should mean high individual ownership."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "lyft-software-engineer-intern-backend-summer-2027",
+    "company": "Lyft",
+    "role": "Software Engineer Intern, Backend – Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-backend-summer-2027-at-lyft-4466352454",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Owns a backend project on rider/driver-facing products covering databases, testing, and CI/CD.",
+      "Squarely in my full-stack/backend interest area.",
+      "Recognizable consumer-tech brand for the resume."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "collins-aerospace-software-engineering-intern-summer-2027",
+    "company": "Collins Aerospace",
+    "role": "Software Engineering Intern – Summer 2027",
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2027-at-collins-aerospace-4462487267",
+    "location": "Cedar Rapids, IA (multiple US sites)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "C/C++ embedded software for avionics/flight-critical systems — a new domain to diversify my resume.",
+      "RTX (parent company) hires roughly 1,000 interns/co-ops annually, so better-than-average odds for a Tier B target."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "alumni-founders-summer-2027-internship-software-engineering",
+    "company": "Alumni Founders",
+    "role": "Summer 2027 Internship – Software Engineering",
+    "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-software-engineering-at-alumni-founders-4454182186",
+    "location": "Not specified",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Small venture-studio-style startup — high-odds, fast-paced full-stack internship likely to offer broad ownership.",
+      "Good fit with my hands-on React/JS/Firebase project experience."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "xcimer-energy-corporation-summer-2027-internship-computational-and-software-engineering",
+    "company": "Xcimer Energy Corporation",
+    "role": "Summer 2027 Internship – Computational and Software Engineering",
+    "url": "https://www.dreamworkhq.com/job/a39e7f79-053c-4017-b26c-ad4e08e8aee2",
+    "location": "Denver, CO (onsite)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Denver-based fusion-energy startup building laser-driven inertial fusion hardware and software.",
+      "Hands-on computational engineering work with 1:1 mentorship, paid with a housing/relocation stipend.",
+      "Small-team startup environment fits my full-stack/automation background, and it's in-state."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "hudl-software-engineering-intern-summer-2027",
+    "company": "Hudl",
+    "role": "Software Engineering Intern, Summer 2027",
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314",
+    "location": "Lincoln, NE",
+    "track": "sports-tech",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Sports-tech platform building software used by coaches, teams, and athletes worldwide — not content production, the actual technical side of sports I want to build a career around.",
+      "Stack includes microservices, CI/CD, and agentic AI workflows I can point to alongside my automation/prompt-engineering work.",
+      "Directly aligns with the sports-data angle of my in-progress Gameday Stats tool."
+    ],
+    "expired": false,
+    "ideal_fit": true,
+    "delisted": false
+  },
+  {
+    "listing_id": "hp-inc-imaging-and-print-engineering-internship-summer-2027-pipeline",
+    "company": "HP Inc.",
+    "role": "Imaging and Print Engineering Internship (Summer 2027 pipeline)",
+    "url": "https://apply.hp.com/careers/job/24787595",
+    "location": "Corvallis, OR",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-09-19",
+    "why_interested": [
+      "Firmware/embedded software work on HP's Imaging and Print division, adjacent to the camera/imaging-software space.",
+      "Hands-on with real hardware+software systems, complementing my file-processing/automation background.",
+      "Path toward full-time conversion at a recognizable engineering brand."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
   }
 ]
