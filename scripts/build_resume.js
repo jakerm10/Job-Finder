@@ -26,7 +26,7 @@ const TRACKS = {
     label: 'Software Engineering / Full-Stack Development',
     coursework: 'Software Development: Full Stack, Computer Algorithms, Computer Systems, Design and Analysis of Database Systems',
     skills: {
-      Languages: 'C++, C, Python, React.js, JavaScript, Node.js, HTML, SQL, R-Studio, Arduino',
+      Languages: 'C, C++, Python, React.js, JavaScript, Node.js, HTML, SQL, R-Studio, Arduino',
       Tools: 'Azure DevOps, Docker, Postman, Salesforce, Microsoft Excel, MacOS, Windows OS, Adobe Suite, Google Suite, Asana',
       'Other Skills': 'AI Prompt Engineering, Analytical Problem Solving, Project Management, Data Analysis',
     },
@@ -67,7 +67,7 @@ const TRACKS = {
       'Other Skills': 'Data Analysis, Statistical Analysis, Analytical Problem Solving, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Removes the need for users to manually acquire data by leveraging SQL techniques to select, filter, engineer, and maintain stats across a relational database. Built with Python and SQL.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Removes the need for users to manually acquire data by leveraging SQL techniques to select, filter, engineer, analyze, and maintain stats across a relational database. Built with Python and SQL.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, including SQL-backed account creation/modification and data persistence. Handled deployment pipelines and user event/data flows end-to-end.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that parses and rewrites MacOS metadata, applying structured data transformations across a batch file set.' },
     ],
@@ -101,7 +101,7 @@ const TRACKS = {
       'Other Skills': 'Sports Analytics & Data Visualization, Statistical Analysis, Data Analysis, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively find and pull accurate, validated statistics via SQL-driven data pipelines. Built end-to-end with Python and SQL to remove the need for manual sports data gathering.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively find, pull, and analyze accurate, validated statistics via SQL-driven data pipelines. Built end-to-end with Python and SQL to remove the need for manual sports data gathering.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, with a SQL-backed account system. JavaScript, CSS, HTML, SQL.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Developed a file-processing script that scans an input folder, parses MacOS "locked" metadata, creates copies, strips metadata, and organizes output.' },
     ],
