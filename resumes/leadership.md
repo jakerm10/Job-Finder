@@ -22,7 +22,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
-- Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide new content strategies
+- Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide organizational content strategy
 - Designed prompts to automate consistency across employees, cutting review time from 5 hours to 1
 - Leveraged AI to synthesize marketing techniques and data points into content plans
 
@@ -59,3 +59,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-09-19: No new leadership-track listings surfaced this run despite dedicated searches (general leadership-dev-program and rotational-program queries, plus Indeed variants) — no wording changes made.
 - 2026-10-03: Adjusted for this week's BD (Becton, Dickinson and Company) pair — 2027 Summer Internship: Quality Engineering Development Program and Edge Program (Technology & Digital Services), both Tier B. Added "documented" to the AI Assisted Researcher reports/process bullet, mirroring BD's quality-engineering/documentation-heavy development-program framing shared by both postings.
 - 2026-09-26: Three new leadership-track listings found this run (Siemens Engineering Leadership Development Program Internship, AT&T Technology Development Program Internship, Honeywell Aerospace ISC URDP Engineering Intern) but all three are Tier A mega-brand long-shots, so per this run's minimal-tailoring-on-Tier-A policy no wording changes were made — the existing Junior Counselor/Patrol Leader and Complex Leadership Challenges framing already speaks directly to all three rotational/development-program postings.
+- 2026-10-10: Adjusted for Pilot Company Leadership Development Intern posting (Tier B, fit 3) — reworded the AI Assisted Researcher reports bullet to close on "organizational content strategy," mirroring Pilot's talent-management/organizational-effectiveness framing for its leadership-development track.

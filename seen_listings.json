@@ -3384,5 +3384,152 @@
     "expired": false,
     "delisted": false,
     "last_verified": "2026-10-03"
+  },
+  {
+    "listing_id": "northrop-grumman-software-engineering-intern-summer-2027-co-ut-az",
+    "company": "Northrop Grumman",
+    "role": "Software Engineering Intern, Summer 2027 (Colorado/Utah/Arizona)",
+    "url": "https://app.joinhandshake.com/jobs/11346717/share_preview",
+    "location": "Colorado / Utah / Arizona",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "Software engineering work on real defense/space systems, with a Colorado site in the rotation",
+      "Languages listed (C++, Python, Java, C#) line up directly with what I already use in Gameday Stats and my portfolio site",
+      "A chance to build on a large-scale engineering team while staying close to home in CO"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "dv-trading-database-engineer-intern-summer-2027",
+    "company": "DV Trading",
+    "role": "Database Engineer Intern, Summer 2027",
+    "url": "https://www.tradermath.org/firms/dv-trading/jobs/database-engineer-intern-summer-2027-in-chicago-3f86b8",
+    "location": "Chicago, IL",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "Hands-on database health, performance, and reliability work \u2014 directly in line with the SQL/relational-database focus of Gameday Stats",
+      "A proprietary trading firm means the data work feeds decisions that matter in real time, which is the kind of stakes I want to work under",
+      "Asks for PostgreSQL/MySQL plus Python, both of which I already use"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "dow-jones-data-analyst-intern-summer-2027",
+    "company": "Dow Jones",
+    "role": "Data Analyst Intern, Summer 2027",
+    "url": "https://simplify.jobs/p/e9f762bf-84f1-4e68-b35e-5a0d9d22671a",
+    "location": "New York, NY",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "Data Management team role supporting data insights, engineering, and transformation \u2014 a close match to the pipeline work I do on Gameday Stats",
+      "Dow Jones runs on information as its core product, so the data work has a clear, visible impact on what the company ships",
+      "Note: the deadline shown on aggregators (Nov 2027) looks like a listing error \u2014 worth confirming the real date directly with Dow Jones before relying on it"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "ragle-inc-data-engineering-internship-summer-2027",
+    "company": "Ragle Inc.",
+    "role": "Data Engineering Internship, Summer 2027",
+    "url": "https://simplify.jobs/p/af103bac-eb95-46b7-94e6-06439a9bd98c",
+    "location": "North Richland Hills, TX",
+    "track": "database",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "Small company, real ownership \u2014 building ETL/ELT pipelines across operational, fleet, and compliance data rather than a narrow slice of a huge org",
+      "Stack (Python, Node.js, SQL) matches my own toolset almost exactly",
+      "A smaller team means more exposure to how the data actually gets used, not just how it gets moved"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "skyworks-data-engineering-summer-intern-2027",
+    "company": "Skyworks",
+    "role": "Data Engineering Summer Intern (May-Aug '27)",
+    "url": "https://careers.skyworksinc.com/job/Data-Engineering-Summer-Intern-(May-Aug-'27)/78258-en_US",
+    "location": "US (TBD)",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "A direct data-engineering role at a semiconductor manufacturer, which gives data work a tangible, hardware-connected output",
+      "Dates line up cleanly with my summer availability",
+      "Good mid-size target between the small-company and mega-brand ends of my list"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "gallup-data-engineering-intern-summer-2027",
+    "company": "Gallup",
+    "role": "Data Engineering Intern, Summer 2027",
+    "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009",
+    "location": "Omaha, NE",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "Gallup's whole business is turning raw survey/poll data into usable statistics, which is exactly the kind of work Gameday Stats is built around",
+      "Python and SQL emphasis matches my current stack directly",
+      "A research-driven data culture would be a strong complement to my Statistics minor"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
+  },
+  {
+    "listing_id": "pilot-company-leadership-development-intern-summer-2027",
+    "company": "Pilot Company",
+    "role": "Leadership Development Intern, Summer 2027",
+    "url": "https://careers.pilotcompany.com/program-intern-leadership-development/job/B40FBAC8E7A10CAEB3F81E7B59ED1D41",
+    "location": "Knoxville, TN",
+    "track": "leadership",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-10",
+    "why_interested": [
+      "A full-time, immersive leadership-development internship focused on talent management and organizational effectiveness \u2014 a direct match for the leadership track I'm targeting",
+      "Large-scale operations give a leadership intern exposure to real organizational complexity, similar to what drew me to the Engineering Leadership Certificate",
+      "Dates (June-August 2027) line up cleanly with my summer availability"
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "last_verified": "2026-10-10",
+    "delisted": false
   }
 ]
