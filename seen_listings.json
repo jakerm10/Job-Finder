@@ -3531,5 +3531,195 @@
     "ideal_fit": false,
     "last_verified": "2026-10-10",
     "delisted": false
+  },
+  {
+    "listing_id": "dolby-laboratories-imaging-software-engineer-intern",
+    "company": "Dolby Laboratories",
+    "role": "Imaging Software Engineer Intern",
+    "url": "https://careers.dolby.com/job/Sunnyvale-Imaging-Software-Engineer-Intern-CA-94085/1399202800/",
+    "location": "Sunnyvale, CA",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Dolby's imaging/video-processing work (Dolby Vision) is exactly the camera/imaging-software niche I want, building directly on my Photo Sorter project's image-file-processing work.",
+      "A big, recognizable name in the one slice of software I most want to build a career in -- a real stretch goal given the applicant volume."
+    ],
+    "expired": false,
+    "ideal_fit": true,
+    "delisted": false
+  },
+  {
+    "listing_id": "sep-software-engineering-intern-summer-2027",
+    "company": "SEP",
+    "role": "Software Engineering Intern (Summer 2027, In Person)",
+    "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
+    "location": "Westfield, IN",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "SEP is a small, project-based software consultancy, so an intern gets hands-on, in-person ownership rather than a narrow slice of one system -- the same end-to-end ownership I like about Gameday Stats.",
+      "Small shop means realistic odds compared to the mega-brand postings I'm also applying to."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "viam-software-engineering-intern-summer-2027",
+    "company": "Viam",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://jobs.alleycorp.com/companies/viam/jobs/92614815-software-engineering-intern-summer-2027",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Viam's software-only robotics-platform internship (Go backend, TypeScript/Svelte frontend) is a genuine full-stack stretch that lines up with my portfolio site's stack.",
+      "Early-stage company size means real ownership as an intern, not busywork."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "two-sigma-software-engineering-internship-summer-2027",
+    "company": "Two Sigma",
+    "role": "Software Engineering Internship (Summer 2027)",
+    "url": "https://jobs.anitab.org/companies/two-sigma-2/jobs/92567016-software-engineering-internship-summer-2027",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Two Sigma's software engineering internship would push my algorithms coursework into a genuinely high-performance, data-driven environment.",
+      "Long-shot given quant-finance applicant volume, but a strong technical brand to have applied to."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "grammarly-software-engineering-intern-summer-2027",
+    "company": "Grammarly",
+    "role": "Software Engineering Intern - Summer 2027",
+    "url": "https://jobs.generalcatalyst.com/companies/grammarly/jobs/93251113-software-engineering-intern-summer-2027",
+    "location": "Remote (US)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Grammarly's AI-driven product work overlaps with the AI-assisted workflow design I did as a Researcher at Brian Hewlett LLC.",
+      "Well-known consumer product with real engineering scale, worth the long-shot application."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "coda-software-engineering-intern-summer-2027",
+    "company": "Coda",
+    "role": "Software Engineering Intern - Summer 2027",
+    "url": "https://jobs.generalcatalyst.com/companies/coda-io/jobs/93154841-software-engineering-intern-summer-2027",
+    "location": "Remote (US)",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Coda is a smaller, product-focused software company, which means more full-stack surface area for an intern than a narrow slice of a huge codebase.",
+      "Realistic odds relative to the mega-brand postings given its smaller size."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "sony-interactive-entertainment-playstation-software-engineering-intern-backend-services",
+    "company": "Sony Interactive Entertainment (PlayStation)",
+    "role": "Software Engineering Intern (Backend Services)",
+    "url": "https://job-boards.greenhouse.io/ussummerinternships/jobs/5668911004",
+    "location": "Multiple (US)",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "PlayStation's backend-services internship touches the exact database/data-processing work I've been doing on Gameday Stats, just at a much larger scale (MySQL, Cassandra, Redis).",
+      "A recognizable, dream-adjacent brand to have on file even though the odds are long given Sony's applicant volume."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "viget-software-developer-intern-2027",
+    "company": "Viget",
+    "role": "Software Developer Intern (2027)",
+    "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2",
+    "location": "Boulder, CO",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "Viget is a small Boulder-based digital product agency, so this internship means real ownership building actual client applications, not a narrow slice of a huge codebase -- the same hands-on ownership I like about Gameday Stats.",
+      "It's local to Boulder, no relocation needed, and the stack (Rails/Python/Elixir, test-driven development, pair programming) is a great chance to grow beyond my React.js-heavy background."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "veeam-data-analytics-programs-intern-summer-2027",
+    "company": "Veeam Software",
+    "role": "Data Analytics & Programs Intern - Summer 2027",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955300101",
+    "location": "Remote (Georgia, US)",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "This role is explicitly about turning raw operational and customer-feedback data into usable insight -- the same data-to-reporting pipeline work I'm already doing on Gameday Stats.",
+      "Veeam's data-management/backup software business gives real production-scale data work, and the remote format keeps it accessible regardless of location."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
+  },
+  {
+    "listing_id": "wr-grace-2027-summer-internship-manufacturing-leadership-program-track",
+    "company": "W. R. Grace",
+    "role": "2027 Grace Summer Internship (Manufacturing Leadership Program Track)",
+    "url": "https://jobs.grace.com/job/baltimore-2027-grace-summer-internship-(manufacturing-leadership-program-track)-md-21226/1421944100",
+    "location": "Baltimore, MD (also Curtis Bay MD, East Chicago IN, Pasadena TX, Baton Rouge/Lake Charles/Norco LA, South Haven MI)",
+    "track": "leadership",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-17",
+    "why_interested": [
+      "This internship is a direct funnel into Grace's three-rotation Manufacturing Leadership Program, which lines up directly with the Engineering Leadership Certificate I'm completing.",
+      "The rotational project areas (Engineering/Process Technology, EHS, R&D, Maintenance & Reliability, Capital Management) give the same kind of structured, broad mentorship I valued as a Junior Counselor and Patrol Leader."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false
   }
 ]
