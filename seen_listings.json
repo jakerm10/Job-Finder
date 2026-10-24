@@ -336,7 +336,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -356,7 +356,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -376,7 +376,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -397,7 +397,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -418,7 +418,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -439,7 +439,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -460,7 +460,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -481,7 +481,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -502,7 +502,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -542,7 +542,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -560,10 +560,10 @@
       "Denver-based, so it's realistic without relocating for the summer.",
       "A late-stage startup building projects from design through delivery gives more end-to-end ownership than a big-company internship would, similar to how I already own Gameday Stats and my portfolio site."
     ],
-    "expired": false,
+    "expired": true,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
-    "delisted": false
+    "last_verified": "2026-10-24",
+    "delisted": true
   },
   {
     "listing_id": "workiva-summer-2027-software-engineering-intern",
@@ -602,7 +602,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -623,7 +623,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -663,7 +663,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
@@ -683,7 +683,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-24",
     "delisted": false
   },
   {
