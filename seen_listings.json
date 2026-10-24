@@ -3721,5 +3721,105 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false
+  },
+  {
+    "listing_id": "skydio-software-engineer-intern-cloud-platform-infrastructure-summer-2027",
+    "company": "Skydio",
+    "role": "Software Engineer Intern, Cloud Platform & Infrastructure, Summer 2027",
+    "url": "https://jobs.a16z.com/jobs/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c--software-engineer-intern-summer-2027",
+    "location": "San Mateo, CA (Hybrid)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-10-24",
+    "why_interested": [
+      "Skydio is exactly the kind of camera/imaging-hardware company I'd want to help build cloud systems for, even on the infra side.",
+      "The role covers CI/CD, cloud-to-air-gapped deployment, and telemetry/observability \u2014 real backend ownership on a small team."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false,
+    "last_verified": "2026-10-24"
+  },
+  {
+    "listing_id": "skydio-embedded-software-engineer-intern-summer-2027",
+    "company": "Skydio",
+    "role": "Embedded Software Engineer Intern, Summer 2027",
+    "url": "https://jobs.a16z.com/jobs/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260--embedded-software-engineer-intern-summer-2027",
+    "location": "San Mateo, CA (Hybrid)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-10-24",
+    "why_interested": [
+      "This role writes drivers for the drone's sensors and cameras and brings up new camera hardware \u2014 about as close to literal camera-software engineering as it gets.",
+      "C++ for embedded systems and Python for tooling matches the stack I already use on Photo Sorter and Gameday Stats."
+    ],
+    "expired": false,
+    "ideal_fit": true,
+    "delisted": false,
+    "last_verified": "2026-10-24"
+  },
+  {
+    "listing_id": "skydio-mobile-software-engineer-intern-summer-2027",
+    "company": "Skydio",
+    "role": "Mobile Software Engineer Intern, Summer 2027",
+    "url": "https://jobs.a16z.com/jobs/skydio/8a237302-3fe8-4403-b32b-7690f333ba52--mobile-software-engineer-intern-summer-2027",
+    "location": "San Mateo, CA (Hybrid)",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-10-24",
+    "why_interested": [
+      "Building the Android app pilots use to fly camera-equipped drones is a direct, hands-on mobile-engineering role at a company whose whole product is imaging hardware.",
+      "AR and in-app content-sharing features sit in the same camera-adjacent space as my own portfolio and Photo Sorter projects."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false,
+    "last_verified": "2026-10-24"
+  },
+  {
+    "listing_id": "caa-icon-summer-intern-data-analytics-denver",
+    "company": "CAA ICON",
+    "role": "Summer Intern, Data Analytics",
+    "url": "https://www.showbizjobs.com/internships/caa-summer-intern-icon-data-analytics-in-denver/jid-dy4memd",
+    "location": "Denver, CO",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 5,
+    "deadline": "TBD",
+    "first_seen": "2026-10-24",
+    "why_interested": [
+      "A Denver-based data role \u2014 cleaning data, running exploratory analysis, and building dashboards \u2014 directly in my home state and squarely in my database/data-analysis track.",
+      "SQL and dashboard-tool (Tableau/Power BI) preferences line up with the SQL work I already do in Gameday Stats."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false,
+    "last_verified": "2026-10-24"
+  },
+  {
+    "listing_id": "jpmorgan-chase-2027-cldp-summer-analyst",
+    "company": "JPMorgan Chase",
+    "role": "2027 Chase Leadership Development Program (CLDP), Summer Analyst",
+    "url": "https://career.mercy.edu/jobs/jpmorganchase-2027-chase-leadership-development-program-summer-analyst-opportunity-oh-tx-de/",
+    "location": "Columbus, OH / Plano, TX / Wilmington, DE",
+    "track": "leadership",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "2026-12-01",
+    "first_seen": "2026-10-24",
+    "why_interested": [
+      "A 9-week CLDP Summer Analyst track that feeds into a 2-year rotational leadership program \u2014 structurally exactly the leadership pipeline my Engineering Leadership Certificate is built for.",
+      "Rotational exposure to product, program/project management, and strategy would broaden my leadership experience beyond the youth-conference and Scout-troop leadership I've already done."
+    ],
+    "expired": false,
+    "ideal_fit": false,
+    "delisted": false,
+    "last_verified": "2026-10-24"
   }
 ]

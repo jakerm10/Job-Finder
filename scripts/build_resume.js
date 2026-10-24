@@ -33,7 +33,7 @@ const TRACKS = {
     projects: [
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed and shipped a production full-stack web application — a software and photography portfolio — using React.js, EmailJS, Cloudflare, and Firebase. Owned the project solo end-to-end — native CSS, deployment pipelines, and full account creation/modification, contact-via-email, and image submission functionality. Stack: JavaScript, CSS, HTML, SQL.' },
       { name: 'Gameday Stats', when: 'In Progress', desc: 'Owning a database-backed reporting tool end-to-end, from requirements through schema design and query logic, that lets users selectively pull statistics for individual games, players, and teams. Implementing, testing, and maintaining SQL-driven backend query logic in Python to eliminate manual data-gathering for end users. Stack: Python, SQL.' },
-      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built an automated image-processing pipeline for camera files at the systems level — scanning an input folder, parsing MacOS "locked" metadata, duplicating matching files, stripping the metadata, and moving copies into a target folder.' },
+      { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built an automated image-processing pipeline for camera files at the systems/file-system level — scanning an input folder, parsing and rewriting MacOS "locked" metadata, duplicating matching files, and moving copies into a target folder.' },
     ],
     employment: [
       { title: 'AI Assisted Researcher', org: 'Brian Hewlett LLC', dates: 'Summer 2026', bullets: [
@@ -67,7 +67,7 @@ const TRACKS = {
       'Other Skills': 'Data Analysis, Statistical Analysis, Analytical Problem Solving, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Automates away the need for users to manually acquire data by leveraging SQL techniques and data-pipeline design to select, filter, engineer, analyze, administer, and maintain stats across a relational database. Built with Python and SQL.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Automates away the need for users to manually acquire data by leveraging SQL techniques and data-pipeline design to select, filter, clean, engineer, analyze, administer, and maintain stats across a relational database. Built with Python and SQL.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, including SQL-backed account creation/modification and data persistence. Handled deployment pipelines and user event/data flows end-to-end.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that parses and rewrites MacOS metadata, applying structured data transformations across a batch file set.' },
     ],
