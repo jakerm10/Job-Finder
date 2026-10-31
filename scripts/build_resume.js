@@ -24,7 +24,7 @@ const EDU = {
 const TRACKS = {
   development: {
     label: 'Software Engineering / Full-Stack Development',
-    coursework: 'Software Development: Full Stack, Computer Algorithms, Computer Systems, Design and Analysis of Database Systems',
+    coursework: 'Software Development: Full Stack, Computer Systems, Computer Algorithms, Design and Analysis of Database Systems',
     skills: {
       Languages: 'C, C++, Python, React.js, JavaScript, Node.js, HTML, SQL, R-Studio, Arduino',
       Tools: 'Azure DevOps, Docker, Postman, Salesforce, Microsoft Excel, MacOS, Windows OS, Adobe Suite, Google Suite, Asana',
@@ -140,7 +140,7 @@ const TRACKS = {
     ],
     employment: [
       { title: 'AI Assisted Researcher', org: 'Brian Hewlett LLC', dates: 'Summer 2026', bullets: [
-        'Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide new content strategies',
+        'Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide cross-functional content strategy',
         'Designed prompts to automate consistency across employees, cutting review time from 5 hours to 1',
         'Leveraged AI to synthesize marketing techniques and data points into content plans',
       ]},

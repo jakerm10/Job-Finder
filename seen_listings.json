@@ -16,7 +16,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -36,7 +36,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -56,7 +56,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -76,7 +76,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -96,7 +96,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -114,10 +114,10 @@
       "Data analytics work at Boeing's scale would give me real experience with large, messy datasets \u2014 a step up from my own Gameday Stats project.",
       "Aligns with my Statistics minor and interest in turning raw data into usable insight."
     ],
-    "expired": false,
+    "expired": true,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
-    "delisted": false
+    "last_verified": "2026-10-31",
+    "delisted": true
   },
   {
     "listing_id": "bytedance-software-engineer-intern-distributed-nosql-database-systems",
@@ -136,7 +136,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -176,7 +176,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -216,7 +216,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -236,7 +236,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -256,7 +256,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -276,7 +276,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -296,7 +296,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -316,7 +316,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-17",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -703,7 +703,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-10-31",
     "delisted": false
   },
   {
@@ -3821,5 +3821,45 @@
     "ideal_fit": false,
     "delisted": false,
     "last_verified": "2026-10-24"
+  },
+  {
+    "listing_id": "rtx-software-engineering-intern-summer-2027-aurora",
+    "company": "RTX (Raytheon)",
+    "role": "Software Engineering Intern (Summer 2027)",
+    "url": "https://www.wayup.com/i-Aerospace-Defense-j-Software-Engineering-Intern-Summer-2027-RTX-695912409033366/",
+    "location": "Aurora, CO",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-10-31",
+    "why_interested": [
+      "RTX's Aurora, CO site builds satellite ground systems software for defense/space programs \u2014 a hands-on technical role distinct from the Arlington leadership-track and Cedar Rapids co-op RTX postings I already track.",
+      "Colorado-based, so no relocation needed from CU Boulder.",
+      "Note: the listing I found attaches eligibility language that looks tailored to a specific university partnership (plus a TS/SCI clearance requirement) \u2014 worth confirming directly with RTX before investing heavily in this application."
+    ],
+    "expired": false,
+    "delisted": false,
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "axon-leadership-development-internship-summer-2027",
+    "company": "Axon",
+    "role": "Leadership Development Internship (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800404003",
+    "location": "Scottsdale, AZ or Boston, MA",
+    "track": "leadership",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-10-31",
+    "why_interested": [
+      "Explicitly prefers Class of 2028 undergrads \u2014 exactly my graduation year.",
+      "A 10-12 week rotational internship across product, finance, and corporate strategy functions pairs well with the Engineering Leadership Certificate I'm pursuing.",
+      "Strong interns are considered for Axon's full 2-year post-grad Leadership Development Program \u2014 a nice long-term hook at a company I already like for its camera/public-safety tech."
+    ],
+    "expired": false,
+    "delisted": false,
+    "ideal_fit": false
   }
 ]

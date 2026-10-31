@@ -22,7 +22,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Employment History
 **AI Assisted Researcher**, Brian Hewlett LLC — Summer 2026
-- Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide organizational content strategy
+- Structured and designed reports and a repeatable, documented practical/technical process to efficiently guide cross-functional content strategy
 - Designed prompts to automate consistency across employees, cutting review time from 5 hours to 1
 - Leveraged AI to synthesize marketing techniques and data points into content plans
 
@@ -61,3 +61,4 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 - 2026-09-26: Three new leadership-track listings found this run (Siemens Engineering Leadership Development Program Internship, AT&T Technology Development Program Internship, Honeywell Aerospace ISC URDP Engineering Intern) but all three are Tier A mega-brand long-shots, so per this run's minimal-tailoring-on-Tier-A policy no wording changes were made — the existing Junior Counselor/Patrol Leader and Complex Leadership Challenges framing already speaks directly to all three rotational/development-program postings.
 - 2026-10-10: Adjusted for Pilot Company Leadership Development Intern posting (Tier B, fit 3) — reworded the AI Assisted Researcher reports bullet to close on "organizational content strategy," mirroring Pilot's talent-management/organizational-effectiveness framing for its leadership-development track.
 - 2026-10-17: Adjusted for W. R. Grace 2027 Summer Internship (Manufacturing Leadership Program Track) posting (Tier B, fit 3) — no body rewrite needed; the existing "real, self-directed project ownership with structured mentorship" framing already matches Grace's rotational-to-three-year-program structure (same pattern as the Corning/Textron/Parker Hannifin entries above).
+- 2026-10-31: Adjusted for Axon Leadership Development Internship (Summer 2027, Tier B, fit 3) — reworded the AI Assisted Researcher reports bullet to "cross-functional content strategy," mirroring Axon LDI's rotational placement across product, finance, and corporate strategy functions. Education line already states "Expected May 2028," directly matching the posting's stated Class of 2028 preference — no change needed there.
