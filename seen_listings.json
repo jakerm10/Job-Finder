@@ -901,8 +901,8 @@
       "A large, established storage/hardware company whose software teams build data-infrastructure-adjacent systems, which overlaps with my database-track interest too.",
       "Good brand-name resume value alongside my more startup-heavy applications."
     ],
-    "expired": false,
-    "delisted": false,
+    "expired": true,
+    "delisted": true,
     "last_verified": "2026-11-07",
     "ideal_fit": false
   },
@@ -3860,6 +3860,190 @@
     ],
     "expired": false,
     "delisted": false,
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "scitec-internship-boulder-2027",
+    "company": "SciTec",
+    "role": "Internship - Boulder 2027",
+    "url": "https://apply.workable.com/scitec/jobs/view/ADC763482F.md",
+    "location": "Boulder, CO",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "Small, employee-focused defense-tech shop right in Boulder - I could stay local and still work on real signal/data systems.",
+      "Security-clearance-eligible role fits my US-citizen status and gives me exposure to government-scale software I haven't seen in coursework.",
+      "Small-team environment means more hands-on ownership than a big-company internship would give a sophomore/junior."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "bound-engineering-intern-summer-2027",
+    "company": "Bound",
+    "role": "Engineering Intern (Summer 2027)",
+    "url": "https://ats.rippling.com/bound/jobs/19af2959-6c24-457a-8794-b1dd37807673",
+    "location": "Ames, IA (hybrid)",
+    "track": "sports-tech",
+    "tier": "C",
+    "fit_score": 5,
+    "deadline": "Rolling",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "Bound is a sports-tech startup, not a media company - exactly the technical side of sports I want, same lane as Gameday Stats.",
+      "Rolling review and a small team means a real shot at meaningful ownership instead of a sea of interns.",
+      "12-week cohort structure (May-Aug 2027) matches my summer availability cleanly."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": true
+  },
+  {
+    "listing_id": "rincon-research-corporation-summer-intern-2027",
+    "company": "Rincon Research Corporation",
+    "role": "Summer Intern 2027",
+    "url": "https://www.builtincolorado.com/job/summer-intern-2027/11479039",
+    "location": "Centennial, CO",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "Employee-owned Colorado defense-tech company working on digital signal processing - a Colorado option I hadn't seen before.",
+      "Paid internship with housing support for out-of-state students shows they invest in interns.",
+      "Centennial is a quick trip from Boulder, so I could stay close to campus resources over the summer."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "ernst-young-assurance-data-and-intelligence-delivery-intern-summer-2027",
+    "company": "Ernst & Young (EY)",
+    "role": "USA - Assurance - Data and Intelligence Delivery - Intern - Summer 2027",
+    "url": "https://usearlycareers.ey.com/job/phoenix/usa-assurance-data-and-intelligence-delivery-intern-summer-2027/39053/100310764336",
+    "location": "Phoenix, AZ (and other US offices)",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "TBD",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "EY's Assurance Data and Intelligence track is built on exactly the kind of structured-data work I did in Database Systems.",
+      "A Big Four internship gives me a credential-building option alongside the smaller companies I'm prioritizing.",
+      "On-the-job training across analytics toolsets is a chance to pick up enterprise tools I won't see in an academic setting."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "pylon-software-engineer-intern",
+    "company": "Pylon",
+    "role": "Software Engineer Intern",
+    "url": "https://jobs.generalcatalyst.com/companies/pylon-2-cde7f5c8-0baf-406d-a336-9c6077914985/jobs/85911716-software-engineer-intern",
+    "location": "San Francisco, CA",
+    "track": "development",
+    "tier": "C",
+    "fit_score": 3,
+    "deadline": "Rolling",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "Early-stage SF startup means I'd be shipping production features, not just shadowing - similar to how I built my portfolio site end to end.",
+      "Small eng team gives me a shot at broad full-stack exposure in one summer."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "glossgenius-engineering-intern-summer-2027",
+    "company": "GlossGenius",
+    "role": "Engineering Intern (Summer 2027)",
+    "url": "https://jobs.techstars.com/companies/glossgenius-2/jobs/91863340-engineering-intern-summer-2027",
+    "location": "New York, NY / San Francisco, CA",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "GlossGenius interns build and ship real production features for web and mobile - hands-on work like my own portfolio site, at startup scale.",
+      "Growth-stage startup (not pre-seed, not mega-cap) is the sweet spot of resources plus real ownership I'm targeting."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "m-science-data-engineer-intern",
+    "company": "M Science",
+    "role": "Data Engineer Intern",
+    "url": "https://wellfound.com/jobs/4801611-data-engineer-intern",
+    "location": "New York, NY (remote-friendly/hybrid)",
+    "track": "database",
+    "tier": "C",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "A data-engineering-focused internship at a small analytics firm is a direct match for the SQL/data-pipeline work in Gameday Stats.",
+      "Remote-friendly hybrid setup is a plus if I need flexibility around the CU Boulder academic calendar."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "alarm-com-software-engineering-intern-denver",
+    "company": "Alarm.com",
+    "role": "Software Engineering Intern - Denver, CO",
+    "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8440261002",
+    "location": "Denver, CO",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 4,
+    "deadline": "Rolling",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "Denver-based smart-home/IoT software company - a Colorado option that keeps me close to campus.",
+      "Role covers researching and integrating new technologies into existing products, which plays to the full-stack range I built on my portfolio site."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
+    "ideal_fit": false
+  },
+  {
+    "listing_id": "dicks-sporting-goods-software-engineer-summer-intern-revenue-growth",
+    "company": "DICK'S Sporting Goods",
+    "role": "Software Engineer Summer Intern - Revenue Growth",
+    "url": "https://www.dickssportinggoods.jobs/job/software-engineer-summer-intern-revenue-growth/new-york-ny/202605375",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "deadline": "TBD",
+    "first_seen": "2026-11-07",
+    "why_interested": [
+      "A retail-tech software role at a major sporting-goods brand - not sports-data work, but still a company I care about following.",
+      "Revenue Growth team work touches real production e-commerce systems at scale."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   }
 ]
