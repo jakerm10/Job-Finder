@@ -723,7 +723,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "delisted": false
   },
   {
@@ -743,7 +743,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -763,7 +763,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -783,7 +783,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -803,7 +803,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -823,7 +823,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -843,7 +843,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -863,7 +863,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -883,7 +883,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -903,7 +903,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -923,7 +923,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -944,7 +944,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -964,7 +964,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -983,9 +983,9 @@
       "Direct C/C++ and embedded-systems work on device drivers and comm protocols for flight hardware.",
       "Company is headquartered in Colorado, so it's a plausible path back toward my home state even though this posting is based in Long Beach."
     ],
-    "expired": false,
-    "delisted": false,
-    "last_verified": "2026-10-03",
+    "expired": true,
+    "delisted": true,
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
@@ -1006,7 +1006,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-07",
     "ideal_fit": false
   },
   {
