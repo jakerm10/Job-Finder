@@ -10,7 +10,7 @@ jake.moore-2@colorado.edu | 720-629-2123 | https://www.linkedin.com/in/jakermoor
 
 ## Projects
 **Gameday Stats** — In Progress
-- Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively find, pull, clean, and analyze accurate, validated statistics via SQL-driven data pipelines
+- Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively collect, clean, and analyze accurate, validated statistics via SQL-driven data pipelines
 - Owned end-to-end with Python and SQL to remove the need for manual sports data gathering
 
 **Personal Portfolio Website** — Summer 2026
@@ -64,3 +64,4 @@ Sports analytics and data visualization, personal health and fitness (CU Club Tr
 - 2026-10-03: Adjusted for this week's sports-tech pair (Utah Jazz Basketball Analytics Intern and Colorado Rockies Baseball Analytics Associate — both Tier B, fit 5, ⭐ ideal fit). Added "clean" to the Gameday Stats bullet's statistics-pipeline list, mirroring the Jazz's explicit "cleaning, validating, and analyzing" data-prep framing; the existing Python/R/SQL stack already matches both teams' stated requirements.
 - 2026-10-17: No new sports-tech-track listings surfaced this run (wide search run but nothing new cleared the strict data/software scope and verification bar beyond what's already tracked) — no changes made.
 - 2026-11-07: Adjusted for Bound Engineering Intern (Summer 2027) posting (Tier C, fit 5, ⭐ ideal fit — a sports-tech startup, not a team or media org). Reworded "Built end-to-end" to "Owned end-to-end" on the Gameday Stats build line to mirror Bound's small-team, high-ownership internship structure (regular 1:1s with a supervisor and buddy) — same project, same work, just framed around ownership the way Bound's posting emphasizes it.
+- 2026-11-14: Adjusted for Northway Sports Data Science Intern posting (Tier C, fit 5, ⭐ ideal fit — a small sports-data company doing "collecting, cleaning, and analyzing" sports data). Reworded the Gameday Stats bullet's "find, pull" to "collect" to mirror Northway's exact data-pipeline-stage language — same underlying project and techniques, no new claims.

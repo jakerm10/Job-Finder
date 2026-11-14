@@ -16,7 +16,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -36,7 +36,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -56,7 +56,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -76,7 +76,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -96,7 +96,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -136,7 +136,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -176,7 +176,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -216,7 +216,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -236,7 +236,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -256,7 +256,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -276,7 +276,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -296,7 +296,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -316,7 +316,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -336,7 +336,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -356,7 +356,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -376,7 +376,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -397,7 +397,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -418,7 +418,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -439,7 +439,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -460,7 +460,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -481,7 +481,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -500,10 +500,10 @@
       "The program pairs training/coaching with real project work, similar to what I valued about mentoring newer interns as a Creative Media Intern.",
       "Exposure to how a large regional company runs its technology and data operations would round out my mostly startup/small-team experience so far."
     ],
-    "expired": false,
+    "expired": true,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
-    "delisted": false
+    "last_verified": "2026-11-14",
+    "delisted": true
   },
   {
     "listing_id": "castleton-commodities-international-data-engineering-internship-summer-2027",
@@ -540,10 +540,10 @@
       "Building data pipelines for an NFL team's Football Operations department is about as literal a sports-data-engineering role as exists, and lines up directly with the SQL/Python work I'm already doing on Gameday Stats.",
       "A specific pro team's internal analytics group is a smaller, more focused environment than a national media company, which should mean more hands-on ownership as an intern."
     ],
-    "expired": false,
+    "expired": true,
     "ideal_fit": true,
-    "last_verified": "2026-10-24",
-    "delisted": false
+    "last_verified": "2026-11-14",
+    "delisted": true
   },
   {
     "listing_id": "judi-health-software-engineering-summer-intern",
@@ -602,7 +602,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -623,7 +623,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -663,7 +663,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -683,7 +683,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -703,7 +703,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-31",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -723,7 +723,7 @@
     ],
     "expired": false,
     "ideal_fit": true,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -743,7 +743,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -763,7 +763,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -783,7 +783,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -803,7 +803,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -823,7 +823,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -843,7 +843,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -863,7 +863,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -883,7 +883,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -923,7 +923,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -944,7 +944,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -964,7 +964,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1004,9 +1004,9 @@
       "A small spacecraft-production company gives real hands-on flight/ground software experience.",
       "Preferred stack (C/C++, Rust, Linux, FreeRTOS) is exactly the systems-programming skill set I want to build. Note: only found via a Dice mirror \u2014 worth double-checking York's own careers page before applying."
     ],
-    "expired": false,
-    "delisted": false,
-    "last_verified": "2026-11-07",
+    "expired": true,
+    "delisted": true,
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1027,7 +1027,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -1048,7 +1048,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1088,7 +1088,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1108,7 +1108,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1128,7 +1128,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -1170,7 +1170,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -1190,7 +1190,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -1233,7 +1233,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "united-launch-alliance-software-engineering-internship-summer-2027",
@@ -1254,7 +1254,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "true-anomaly-full-stack-software-engineer-intern",
@@ -1275,7 +1275,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "keysight-technologies-software-engineering-intern-automation-developer-experience",
@@ -1296,7 +1296,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "c3-ai-software-engineer-intern-ascend-internship-program",
@@ -1316,7 +1316,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "kensho-technologies-software-engineer-summer-intern",
@@ -1336,7 +1336,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "voleon-group-software-engineer-intern",
@@ -1356,7 +1356,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "pdt-partners-summer-2027-software-engineering-intern",
@@ -1376,7 +1376,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "heliux-software-engineer-internship",
@@ -1396,7 +1396,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "minimed-medtronic-software-engineering-intern",
@@ -1436,7 +1436,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "aerotech-software-engineering-internship-or-co-op",
@@ -1456,7 +1456,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "johnson-johnson-software-engineering-co-op-summer-2027",
@@ -1476,7 +1476,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "rtx-software-engineering-co-op-summer-fall-2027",
@@ -1496,7 +1496,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "mckesson-software-engineer-intern-summer-2027",
@@ -1516,7 +1516,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "spectrum-charter-2027-summer-intern-software-engineer",
@@ -1536,7 +1536,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "dropbox-software-engineering-intern-summer-2027",
@@ -1556,7 +1556,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "cox-enterprises-software-engineering-intern-summer-2027-austin",
@@ -1576,7 +1576,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "nsa-summer-2027-internship-program-colorado",
@@ -1596,7 +1596,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "nrel-software-engineer-intern-building-performance-modeling",
@@ -1616,7 +1616,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "tiktok-software-engineer-intern-intelligent-creation-camera",
@@ -1636,7 +1636,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "skydio-autonomy-engineer-intern-computer-vision-deep-learning",
@@ -1657,7 +1657,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "skydio-autonomy-engineer-intern-deep-learning-computational-photography",
@@ -1674,10 +1674,10 @@
       "This is computational photography specifically \u2014 super-resolution, multi-frame denoising, low-light and HDR imaging \u2014 the closest thing to camera software I could find outside a dedicated camera-hardware company.",
       "It's a chance to work on the imaging pipeline itself, not just the autonomy layer around it."
     ],
-    "expired": false,
+    "expired": true,
     "ideal_fit": true,
-    "delisted": false,
-    "last_verified": "2026-10-03"
+    "delisted": true,
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "walleye-capital-investment-data-science-intern",
@@ -1697,7 +1697,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "mckesson-data-analyst-intern-summer-2027",
@@ -1717,7 +1717,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "american-express-data-engineer-intern-enterprise-technology-services",
@@ -1737,7 +1737,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "aerospace-corporation-data-science-intern-summer-2027",
@@ -1757,7 +1757,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "spectrum-charter-2027-summer-intern-data-developer",
@@ -1777,7 +1777,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "mastercard-data-engineering-intern-summer-2027",
@@ -1797,7 +1797,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "continental-resources-data-analyst-intern-summer-2027",
@@ -1817,7 +1817,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "life-time-database-administrator-intern",
@@ -1837,7 +1837,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "johnson-johnson-rdldp-summer-2027-internship",
@@ -1857,7 +1857,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "textron-2027-leadership-development-internship-program-it",
@@ -1877,7 +1877,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "avangrid-2027-local-rotational-program-technology-digital-analytics",
@@ -1897,7 +1897,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "parker-hannifin-engineering-leadership-development-program",
@@ -1917,7 +1917,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "washington-commanders-data-analyst-intern",
@@ -1938,7 +1938,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "kansas-city-chiefs-data-science-intern",
@@ -1959,7 +1959,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "utah-mammoth-software-engineer-intern-hockey-operations",
@@ -2000,7 +2000,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "zoomph-data-quality-intern",
@@ -2021,7 +2021,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "houston-texans-business-intelligence-intern",
@@ -2041,7 +2041,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "fc-cincinnati-data-analyst-intern",
@@ -2061,7 +2061,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "sportscapital-analyst-internship-sports-data-annotation",
@@ -2081,7 +2081,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "ibotta-software-engineering-intern-summer-2027",
@@ -2102,7 +2102,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "ibotta-data-engineering-intern-summer-2027",
@@ -2123,7 +2123,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "amgen-undergrad-intern-data-engineer-technology-ai-data-summer-2027",
@@ -2144,7 +2144,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "tri-state-generation-and-transmission-association-it-integration-and-analytics-intern",
@@ -2165,7 +2165,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "honeywell-software-engineer-co-op-spring-summer-2027",
@@ -2186,7 +2186,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "delta-montrose-electric-association-data-analytics-intern",
@@ -2207,7 +2207,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "mastercard-software-engineer-intern-summer-2027",
@@ -2228,7 +2228,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "lawrence-livermore-national-laboratory-llnl-data-science-institute-undergraduate-student-intern-summer-2027",
@@ -2249,7 +2249,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "hp-iq-software-engineering-intern-aml-platform-summer-2027",
@@ -2269,7 +2269,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "d-e-shaw-co-systems-engineering-intern-new-york-summer-2027",
@@ -2290,7 +2290,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "superhuman-software-engineering-intern-summer-2027",
@@ -2311,7 +2311,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "lyft-software-engineer-intern-backend-summer-2027",
@@ -2332,7 +2332,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "collins-aerospace-software-engineering-intern-summer-2027",
@@ -2352,7 +2352,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "alumni-founders-summer-2027-internship-software-engineering",
@@ -2372,7 +2372,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "xcimer-energy-corporation-summer-2027-internship-computational-and-software-engineering",
@@ -2393,7 +2393,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "hudl-software-engineering-intern-summer-2027",
@@ -2414,7 +2414,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "hp-inc-imaging-and-print-engineering-internship-summer-2027-pipeline",
@@ -2435,7 +2435,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "ambarella-software-engineer-intern-microcode-video-algorithms",
@@ -2455,7 +2455,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2476,7 +2476,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2496,7 +2496,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2516,7 +2516,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2536,7 +2536,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2555,7 +2555,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2572,9 +2572,9 @@
     "why_interested": [
       "A fintech-adjacent SWE internship diversifies my portfolio beyond consumer apps and shows me how software is built in a regulated industry."
     ],
-    "expired": false,
-    "delisted": false,
-    "last_verified": "2026-10-03",
+    "expired": true,
+    "delisted": true,
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2593,7 +2593,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2612,7 +2612,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2631,7 +2631,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2651,7 +2651,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2670,7 +2670,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2690,7 +2690,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2709,7 +2709,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2731,7 +2731,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2794,7 +2794,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2815,7 +2815,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2836,7 +2836,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2857,7 +2857,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2878,7 +2878,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -2899,7 +2899,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2920,7 +2920,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2940,7 +2940,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2958,9 +2958,9 @@
       "Writing code for NBA products across the whole connected-device ecosystem is a mega-brand-level software role.",
       "A chance to see how a league-scale tech org is structured, helping me figure out what part of sports-tech I want to specialize in."
     ],
-    "expired": false,
-    "delisted": false,
-    "last_verified": "2026-10-03",
+    "expired": true,
+    "delisted": true,
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -2978,9 +2978,9 @@
       "This is the on-court data-analysis role I've effectively been practicing for with Gameday Stats \u2014 statistical analysis and visualization of game/player data.",
       "Exposure to how a league office (not just one team) uses analytics for basketball-ops broadens my perspective beyond team-level roles already on my board."
     ],
-    "expired": false,
-    "delisted": false,
-    "last_verified": "2026-10-03",
+    "expired": true,
+    "delisted": true,
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -3001,7 +3001,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3022,7 +3022,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3043,7 +3043,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3066,7 +3066,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "castleton-commodities-international-full-stack-software-engineer-internship-summer-2027",
@@ -3150,7 +3150,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "ge-healthcare-software-engineering-summer-intern-2027-surgery-imaging",
@@ -3171,7 +3171,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "transcard-payments-2027-sql-database-administrator-intern",
@@ -3192,7 +3192,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "coinbase-data-engineer-intern",
@@ -3213,7 +3213,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "home-depot-2027-summer-internship-data-science-analytics",
@@ -3234,7 +3234,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "cardinal-health-data-analytics-internship-summer-2027",
@@ -3255,7 +3255,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "utah-jazz-basketball-analytics-intern-current-student-summer-2027",
@@ -3277,7 +3277,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "colorado-rockies-baseball-analytics-associate",
@@ -3299,7 +3299,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "pga-tour-2027-summer-internship-program-data-technology-solutions",
@@ -3320,7 +3320,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "bd-2027-summer-internship-quality-engineering-development-program",
@@ -3341,7 +3341,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "bd-2027-summer-internship-edge-program-technology-digital-services",
@@ -3362,7 +3362,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "booz-allen-hamilton-2027-summer-games-software-developer-intern",
@@ -3383,7 +3383,7 @@
     "first_seen": "2026-10-03",
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "northrop-grumman-software-engineering-intern-summer-2027-co-ut-az",
@@ -3403,7 +3403,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3424,7 +3424,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3445,7 +3445,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3466,7 +3466,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3487,7 +3487,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3508,7 +3508,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3529,7 +3529,7 @@
     ],
     "expired": false,
     "ideal_fit": false,
-    "last_verified": "2026-10-10",
+    "last_verified": "2026-11-14",
     "delisted": false
   },
   {
@@ -3550,7 +3550,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "sep-software-engineering-intern-summer-2027",
@@ -3570,7 +3570,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "viam-software-engineering-intern-summer-2027",
@@ -3590,7 +3590,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "two-sigma-software-engineering-internship-summer-2027",
@@ -3610,7 +3610,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "grammarly-software-engineering-intern-summer-2027",
@@ -3630,7 +3630,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "coda-software-engineering-intern-summer-2027",
@@ -3650,7 +3650,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "sony-interactive-entertainment-playstation-software-engineering-intern-backend-services",
@@ -3670,7 +3670,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "viget-software-developer-intern-2027",
@@ -3690,7 +3690,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "veeam-data-analytics-programs-intern-summer-2027",
@@ -3710,7 +3710,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "wr-grace-2027-summer-internship-manufacturing-leadership-program-track",
@@ -3730,7 +3730,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "skydio-software-engineer-intern-cloud-platform-infrastructure-summer-2027",
@@ -3750,7 +3750,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "skydio-embedded-software-engineer-intern-summer-2027",
@@ -3770,7 +3770,7 @@
     "expired": false,
     "ideal_fit": true,
     "delisted": false,
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "skydio-mobile-software-engineer-intern-summer-2027",
@@ -3790,7 +3790,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "caa-icon-summer-intern-data-analytics-denver",
@@ -3810,7 +3810,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "jpmorgan-chase-2027-cldp-summer-analyst",
@@ -3830,7 +3830,7 @@
     "expired": false,
     "ideal_fit": false,
     "delisted": false,
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "rtx-software-engineering-intern-summer-2027-aurora",
@@ -3851,7 +3851,7 @@
     "expired": false,
     "delisted": false,
     "ideal_fit": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "axon-leadership-development-internship-summer-2027",
@@ -3872,7 +3872,7 @@
     "expired": false,
     "delisted": false,
     "ideal_fit": false,
-    "last_verified": null
+    "last_verified": "2026-11-14"
   },
   {
     "listing_id": "scitec-internship-boulder-2027",
@@ -3892,7 +3892,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3913,7 +3913,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": true
   },
   {
@@ -3934,7 +3934,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3955,7 +3955,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -3975,7 +3975,7 @@
     ],
     "expired": false,
     "delisted": false,
-    "last_verified": "2026-11-07",
+    "last_verified": "2026-11-14",
     "ideal_fit": false
   },
   {
@@ -4057,5 +4057,151 @@
     "delisted": false,
     "last_verified": "2026-11-07",
     "ideal_fit": false
+  },
+  {
+    "listing_id": "northway-sports-data-science-intern",
+    "company": "Northway Sports",
+    "role": "Data Science Intern",
+    "url": "https://www.builtinnyc.com/job/data-science-intern/11068577",
+    "location": "Remote-friendly (cross-posted NYC / Austin / LA)",
+    "track": "sports-tech",
+    "tier": "C",
+    "fit_score": 5,
+    "ideal_fit": true,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "Northway Sports' role is literally collecting, cleaning, and analyzing sports data \u2014 exactly the data-pipeline work I'm already building with Gameday Stats.",
+      "A small sports-data company gives real hands-on ownership of the analytics pipeline rather than one narrow slice.",
+      "Cross-posted remote-friendly, so it's realistic even without relocating."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "trimble-data-analyst-intern",
+    "company": "Trimble",
+    "role": "Data Analyst Intern",
+    "url": "https://www.builtincolorado.com/job/data-analyst-intern/7739353",
+    "location": "Westminster, CO",
+    "track": "database",
+    "tier": "B",
+    "fit_score": 5,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "Westminster, CO is a direct match for my location preference \u2014 no relocation needed.",
+      "Building Power BI dashboards and automating data processes is a natural extension of the SQL/data work I've done on Gameday Stats and my portfolio site.",
+      "Trimble's positioning/geospatial data work would round out my Statistics-minor-driven interest in data integrity and analytics."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "amazon-database-engineer-intern-summer-2027",
+    "company": "Amazon",
+    "role": "Database Engineer Intern",
+    "url": "https://simplify.jobs/p/40cf0d07-e3e9-4d84-a352-1b71ad2e6ce2",
+    "location": "Seattle, WA",
+    "track": "database",
+    "tier": "A",
+    "fit_score": 4,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "Direct database-engineering work at massive scale would push my Design and Analysis of Database Systems coursework into a real production environment.",
+      "Long-shot given Amazon's applicant volume, but a strong brand-name fit for the database track worth a fast application.",
+      "Note: only found via a Simplify mirror \u2014 worth finding Amazon's own jobs.amazon.com/careers listing before applying, since mirrors go stale independently."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "d-e-shaw-software-developer-intern-summer-2027",
+    "company": "D. E. Shaw",
+    "role": "Software Developer Intern, Summer 2027",
+    "url": "https://careerservices.fas.harvard.edu/jobs/d-e-shaw-group-the-software-developer-intern-new-york-summer-2027/",
+    "location": "New York, NY",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "D. E. Shaw's 12-week New York internship is a serious quant-engineering brand to have on file alongside my other trading-firm applications.",
+      "Long-shot given applicant volume, but the technical bar would push my algorithms coursework further than most internships would.",
+      "Note: found via a Harvard career-services mirror rather than D. E. Shaw's own careers page \u2014 worth double-checking their direct site before applying."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "voyager-technologies-summer-2027-internship-program",
+    "company": "Voyager Technologies",
+    "role": "Summer 2027 Internship Program",
+    "url": "https://spacenexus.us/space-talent/job/cmumarha40jq8cfctwcxjkca2",
+    "location": "Not specified in listing",
+    "track": "development",
+    "tier": "B",
+    "fit_score": 3,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "A 10-week space-industry internship (June-August 2027) building software for Voyager Technologies is a solid technical stretch beyond coursework.",
+      "Space-sector software work pairs well with my interest in systems-level engineering alongside my other aerospace-adjacent applications (Advanced Space, True Anomaly).",
+      "Note: found via a spacenexus.us aggregator listing \u2014 worth double-checking Voyager's own careers page before applying."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "pwc-software-engineering-summer-2027-internship",
+    "company": "PwC (PricewaterhouseCoopers)",
+    "role": "Software Engineering - Summer 2027 Internship",
+    "url": "https://jobs.us.pwc.com/job/atlanta/software-engineering-summer-2027-internship/932/90657128048",
+    "location": "Atlanta, GA",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "PwC's Software Engineering internship would give me large-firm, client-facing engineering experience I haven't had yet.",
+      "Long-shot given a Big 4 firm's applicant volume, but a solid structured internship program if it comes through."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
+  },
+  {
+    "listing_id": "qualcomm-embedded-engineering-internship-2027",
+    "company": "Qualcomm",
+    "role": "Embedded Engineering Internship (2027 U.S. Summer Class)",
+    "url": "https://www.simplyhired.com/job/2c-PEN-A8moP6Btq39WiEAaGnt_AFUhXvTl_pGHsFUl-h-R3cGPmWQ",
+    "location": "Not specified (US)",
+    "track": "development",
+    "tier": "A",
+    "fit_score": 3,
+    "ideal_fit": false,
+    "deadline": "TBD",
+    "first_seen": "2026-11-14",
+    "why_interested": [
+      "Qualcomm's embedded engineering track covers real production firmware/hardware-adjacent systems, a stretch beyond my Computer Systems coursework.",
+      "The 11-14 week 2027 summer program's graduation-date requirement (Nov 2027 or later) matches my own May 2028 timeline well.",
+      "Long-shot given Qualcomm's size and applicant volume, but a strong semiconductor/embedded brand to have on file alongside my other development-track applications."
+    ],
+    "expired": false,
+    "delisted": false,
+    "last_verified": "2026-11-14"
   }
 ]

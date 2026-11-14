@@ -67,7 +67,7 @@ const TRACKS = {
       'Other Skills': 'Data Analysis, Statistical Analysis, Analytical Problem Solving, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Automates away the need for users to manually acquire data by leveraging SQL techniques and data-pipeline design to select, filter, clean, engineer, analyze, administer, maintain, and deliver stats across a relational database. Built with Python and SQL.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing and documenting the schema and query requirements for a database-oriented reporting tool allowing users to selectively query statistics from individual games, players, and teams. Automates away the need for users to manually acquire data by leveraging SQL techniques and data-pipeline design to select, filter, clean, engineer, analyze, visualize, administer, maintain, and deliver stats across a relational database. Built with Python and SQL.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, including SQL-backed account creation/modification and data persistence. Handled deployment pipelines and user event/data flows end-to-end.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Built a file-processing script that parses and rewrites MacOS metadata, applying structured data transformations across a batch file set.' },
     ],
@@ -101,7 +101,7 @@ const TRACKS = {
       'Other Skills': 'Sports Analytics & Data Visualization, Statistical Analysis, Data Analysis, AI Prompt Engineering',
     },
     projects: [
-      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively find, pull, clean, and analyze accurate, validated statistics via SQL-driven data pipelines. Owned end-to-end with Python and SQL to remove the need for manual sports data gathering.' },
+      { name: 'Gameday Stats', when: 'In Progress', desc: 'Designing a database-oriented sports statistics tool for coaches, players, and teams to selectively collect, clean, and analyze accurate, validated statistics via SQL-driven data pipelines. Owned end-to-end with Python and SQL to remove the need for manual sports data gathering.' },
       { name: 'Personal Portfolio Website', when: 'Summer 2026', desc: 'Developed a full-stack site using React.js, EmailJS, Cloudflare, and Firebase, with a SQL-backed account system. JavaScript, CSS, HTML, SQL.' },
       { name: 'Photo Sorter', when: 'Winter 2025-26', desc: 'Developed a file-processing script that scans an input folder, parses MacOS "locked" metadata, creates copies, strips metadata, and organizes output.' },
     ],
